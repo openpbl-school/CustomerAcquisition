@@ -1,6 +1,16 @@
-## ENSAIOS
-
 <a name="start"></a> 
+
+<p align="center">    
+    <a href="#english">English</a>
+    ·
+    <a href="#spanish">Spanish</a>
+    ·
+    <a href="#portuguese">Portuguese</a>
+    ·
+    <a href="#chinese">Chinese</a>
+</p>
+
+<br>
 
 <table style="width:100%">
   <tr>
