@@ -5,13 +5,13 @@
 </p>
 
 <p align="left">    
-    <a href="#english">Testemunhos</a>
+    <a href="#testimonials">Testemunhos</a>
     ·
-    <a href="#spanish">Catálogo de cursos</a>
+    <a href="#catalogo">Catálogo de cursos</a>
     ·
-    <a href="#portuguese">Como funciona</a>
+    <a href="#comofunciona">Como funciona</a>
     ·
-    <a href="#chinese">FAQs</a>
+    <a href="#faq">FAQs</a>
 </p>
 
 <br>
@@ -34,9 +34,6 @@
 
 <br>
 
-## TESTEMUNHOS DAS PERSONAS   
-
-<br>
 <table style="width:100%">
   <tr>
    <td width="77%"><h2><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h2> 
