@@ -1,7 +1,7 @@
 <a name="start"></a> 
 
 <p align="center">    
-    <a href="#english">English</a>
+    <a href="#english"><img src="img/logo3_fundo_branco_small.png"></a>
     ·
     <a href="#spanish">Spanish</a>
     ·
