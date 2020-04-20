@@ -1,6 +1,6 @@
 <a name="start"></a> 
 
-<p align="center">    
+<p align="left">    
     <a href="#english"><img src="img/logo3_fundo_branco_small.png" height="60"></a>
     ·
     <a href="#spanish">Spanish</a>
