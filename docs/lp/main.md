@@ -52,7 +52,7 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src=".../img/testm_person_02.png"></td>
+    <td><img src="docs/img/testm_person_02.png"></td>
     <td width="80%"><h2><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</em></h2>
 <strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
