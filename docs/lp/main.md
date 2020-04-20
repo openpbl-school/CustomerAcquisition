@@ -34,7 +34,7 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src=".../img/testm_person_03.png"></td>
+    <td><img src="img/testm_person_03.png"></td>
     <td width="80%"><h2><em>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</em></h2>
 <strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br> 
     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
@@ -52,7 +52,7 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src="img/testm_person_02.png"></td>
+    <td><img src=".../img/testm_person_02.png"></td>
     <td width="80%"><h2><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</em></h2>
 <strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
