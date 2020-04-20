@@ -2,12 +2,16 @@
 
 <p align="left">    
     <a href="#english"><img src="img/logo3_fundo_branco_small.png" height="60"></a>
+</p>
+
+<p align="left">    
+    <a href="#english">Testemunhos</a>
     ·
-    <a href="#spanish">Spanish</a>
+    <a href="#spanish">Catálogo de cursos</a>
     ·
-    <a href="#portuguese">Portuguese</a>
+    <a href="#portuguese">Como funciona</a>
     ·
-    <a href="#chinese">Chinese</a>
+    <a href="#chinese">FAQs</a>
 </p>
 
 <br>
