@@ -1,4 +1,4 @@
-## OpenPBL Online Conversion 
+## OpenPBL Lead Conversion Strategy
 
 https://openpbl-school.github.io/LeadConversion/ 
 
