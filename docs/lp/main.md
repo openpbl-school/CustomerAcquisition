@@ -82,6 +82,97 @@
 
 <br>
 
+
+<a name="comofunciona"></a> <br>
+
+## PASSO A PASSO DO PRODUTO
+
+### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
+- Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
+- Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;
+
+### 2. Escolha um dos problemas da trilha para dedicar seus estudos.
+- Cada título da sua trilha de carreira aborda um **problema real** típico da sua função, vivido por profissionais como você;
+- Esses problemas são propostos por **experientes profissionais** que são gestores de profissionais como você;
+- Ao escolher um título, você tem acesso à um conteúdo textual e audiovisual (*ebook*) que descreve e contextualiza os elementos principais do problema proposto;
+- Para ajudar a assimilar os principais elementos do cenário descritivo do problema, nós fazemos uma **avaliação** online com você;
+
+### 3. Prepare a sua própria solução para o problema.
+- Para apresentar uma solução para o problema proposto, você precisará de um conjunto mínimo de **conhecimentos técnicos**. É possível que você não ainda não domine alguns destes conhecimentos;
+- Para ajudá-lo a conseguir os conhecimentos que você ainda não tem, nós fazemos uma **avaliação diagnóstica** online, através de um banco de questões, que é **adaptado ao seu progresso**. Assim, podemos ajudá-lo a identificar mais rapidamente as suas deficiências e recomendar textos, vídeos, livros, enfim, toda sorte de conteúdo, gratuito ou não;
+- Esta avaliação credencia você a participar da etapa seguinte da sua aprendizagem. Você poderá repetir a avaliação até que esteja preparado. Quando estiver pronto, nós vamos agendar a sua participação em uma das diversas sessões presenciais que discute esse mesmo problema. Na data e local que você escolher, dentre as diversas opções disponíveis;
+
+### 4. Discuta a sua solução com outros profissionais.
+- O auge da sua experiência de aprendizagem é a participação em uma **sessão presencial** de três horas para discussão das soluções para o problema proposto;
+- A sessão é conduzida por um tutor treinado e é restrita à um grupo de 10 alunos com perfis profissionais e experiência semelhantes às suas;
+- A sua participação na sessão presencial é **gravada**, **editada** e disponibilizada para você em **arquivo audiovisual**;
+
+### 5. Reflita sobre seu desempenho e avance para o próximo problema.
+- Além do registro da sua participação, você receberá posteriormente os **resultados** das avaliações diagnósticas e do seu desempenho na solução de cada problema da sua trilha;
+- Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; 
+
+<br>
+
+## PERGUNTAS MAIS FREQUENTES (FAQs)
+
+<br>
+
+### SOBRE O PROCESSO OPEN-PBL
+
+### O que acontece se eu não encontrar no catálogo uma trilha para a carreira que eu escolhi? 
+Se não conseguir encontrar uma trilha específica, você pode montar a sua própria trilha com os títulos mais próximos do que precisa. Você pode nos comunicar sobre isso para que possamos considerar essa carreira nos lançamentos periódicos de novos títulos.
+
+### Eu preciso ter uma conta no LinkedIn para ser um aluno OpenPBL? 
+Sim. Seu perfil profissional é muito importante para que tenhamos como montar uma melhor experiência de aprendizagem para você. Além disso, os tutores das sessões presenciais utilizam as informações dos perfis profissionais dos participantes para conduzi-la. 
+
+### Quanto tempo eu tenho para ler o problema? 
+Você terá o tempo que quiser para analisar o problema proposto. As sessões presenciais para discussão deste problema ocorrem periodicamente. Assim que você estiver preparado, basta agendar a sua participação em uma delas.   
+
+### O que acontece se eu não conseguir os pontos mínimos para participar de uma sessão presencial? 
+Você poderá se submeter às avaliações diagnósticas quantas vezes quiser. É importante que você progrida no seu tempo. Não se preocupe, sua vaga em uma sessão presencial estará garantida.
+
+## Eu saberei com antecedência quem são os participantes da sessão? 
+Sim. Com um dia útil de antecedência, você terá oportunidade de conhecer os participantes e o seu perfil profissional no LinkedIn. 
+
+### Como é a dinâmica da sessão presencial? 
+Inicialmente o tutor da sessão se apresenta e apresenta rapidamente cada um dos participantes. Depois é feita divisão em dois grupos de 5 alunos que irão trabalhar juntos na primeira hora da sessão….  (continua...).
+
+### Os outros participantes terão acesso à gravação da minha participação? 
+Não. Cada aluno participante da sessão presencial recebe um arquivo audiovisual com os trechos editados da sua participação. A íntegra da gravação não é disponibilizada para nenhum participante. 
+
+## ? 
+(continua…)
+
+(mais perguntas)
+
+<br>
+
+### SOBRE O MÉTODO OPEN-PBL 
+
+### O que significa PBL?
+PBL é a abreviação de *”**Problem-based Learning**”* cuja tradução é “**Aprendizagem baseada em Problemas**”. Pela PBL, os alunos aprendem **resolvendo problemas** e **refletindo** sobre suas experiências. 
+
+A dinâmica de cada experiência PBL é dividida em duas fases. Na **etapa de preparação** (individual), o aluno conhece o problema, detecta e elimina o gap técnico para resolvê-lo (*self-directed learning*). Na **etapa de discussão** (em grupo e conduzida por um tutor), os alunos apresentam as suas soluções e discutem a “**transferabilidade**” das diversas soluções apresentadas para problemas semelhantes;
+
+### Quais as vantagens da PBL?
+A PBL é uma estratégia de aprendizagem **comprovadamente eficaz** para o desenvolvimento de competências profissionais **não técnicas** de ordem superior. Essas competências representam um **importante diferencial** no nível de empregabilidade dos profissionais quando estes competem por oportunidades no mercado de trabalho com profissionais que têm **competências técnicas semelhantes**.  
+
+### Como a PBL desenvolve as competências profissionais não técnicas?
+Competências profissionais não técnicas de ordem superior são resultantes do **emprego continuado** dos conhecimentos e habilidades técnicas em **condições reais** de incerteza, assimetria de informação, restrições de recursos e pressões diversas, segundo as restrições do portfólio de **habilidades comportamentais individuais** de cada profissional.
+
+### Quais são essas competências não técnicas?
+Podemos listar como competências profissionais não técnicas de ordem superior:
+  - Estruturação de problemas mal definidos;
+  - Tomada de decisão envolvendo incertezas, objetivos conflitantes e regras de compliance;
+  - Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance;
+  - Atuação sob pressão de prazo, desempenho e opiniões diversas;
+  - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação;
+  - Visão orçamentária, atitude empreendedora e outras mais.
+
+<br>
+
+
+
 <a name="storytelling"></a>
 
 ## CASO MARIA LÚCIA 
