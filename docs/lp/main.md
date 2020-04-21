@@ -68,12 +68,9 @@
   </tr>
 </table>
 
-
 <br><br>
 
 <a name="comofunciona"></a>
-
-##
 
 <br>
 
@@ -108,10 +105,7 @@ PASSO A PASSO DO PRODUTO
 
 <a name="testimonials"></a>
 
-##
-
 <br>
-
 
 
 <table style="width:100%">
