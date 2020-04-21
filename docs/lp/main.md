@@ -1,14 +1,14 @@
 <a name="start"></a>
 
 <p align="center">    
-   <en>OpenPBL</en>
-    |
+   <b>OpenPBL</b>
+      |  
     <a href="#testimonials"> Testemunhos </a>
-    .
+    .  
     <a href="#catalogo"> Catálogo de cursos </a>
-    .
+    .  
     <a href="#comofunciona"> Como funciona </a>
-    .
+    .  
     <a href="#faq"> FAQs </a>
 </p>
 
