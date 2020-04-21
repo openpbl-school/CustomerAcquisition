@@ -1,18 +1,6 @@
 <a name="start"></a>
 
-<p align="center">    
-   <b>OpenPBL</b>
-    |  
-    <a href="#testimonials"> Testemunhos </a>
-    .
-    <a href="#catalogo"> Catálogo de cursos </a>
-    .
-    <a href="#comofunciona"> Como funciona </a>
-    .
-    <a href="#faq"> FAQs </a>
-</p>
 
-<br>
 
 <table style="width:100%">
   <tr>
@@ -29,50 +17,23 @@
   </tr>
 </table>
 
+
 <table style="width:100%">
   <tr>
-  <td width="30%"><img src="img/logo3_fundo_branco_small.png" height="60"></td> 
-  <td>
-    <a href="#testimonials"> Testemunhos </a>
-    .
-    <a href="#catalogo"> Catálogo de cursos </a>
-    .
-    <a href="#comofunciona"> Como funciona </a>
-    .
-     <a href="#faq"> FAQs </a>
-  </td> 
-  </tr>
-  </table>
-   
-   
-  <table style="width:100%"> 
-  <tr>
-     <td width="77%"><h1>Onde você quer chegar?</h1> <h3>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h3><br><br>
+     <td width="77%"><h1>Onde você quer chegar?</h1>
+        <br>
+        <br>
+        <br>
+        <b>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.<br>  
+        <b>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</b>
+        <br>
+        <br>
    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
   <td><img src="img/logo3_fundo_branco_small.png" height="60"></td>
   </tr>
 </table>
 
-
-<table style="width:100%">
-  <tr>
-     <td width="77%"><h1>Onde você quer chegar?</h1><br><br><br>
-        <b>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</b>  
-        <b>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</b><br><br>
-   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/logo3_fundo_branco_small.png" height="60"></td>
-  </tr>
-</table>
-
-
-<table style="width:100%">
-  <tr>
-   <td width="77%"><h1>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1>
-     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/logo3_fundo_branco_small.png"></td>
-  </tr>
-</table>
-
+## 
 
 <table style="width:100%">
   <tr>
@@ -339,4 +300,24 @@ O NDA para acesso ao plano de negócios com o detalhamento do projeto está disp
 <p align="center"><a href="#start">voltar</a></p>
 
 
+<p align="center">    
+   <b>OpenPBL</b>
+    |  
+    <a href="#testimonials"> Testemunhos </a>
+    .
+    <a href="#catalogo"> Catálogo de cursos </a>
+    .
+    <a href="#comofunciona"> Como funciona </a>
+    .
+    <a href="#faq"> FAQs </a>
+</p>
 
+<table style="width:100%"> 
+  <tr>
+     <td width="77%"><h1>Onde você quer chegar?</h1> <h3>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h3><br><br>
+   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/logo3_fundo_branco_small.png" height="60"></td>
+  </tr>
+</table>
+
+<br>
