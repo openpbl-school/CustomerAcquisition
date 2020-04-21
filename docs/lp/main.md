@@ -16,6 +16,22 @@
 
 <table style="width:100%">
   <tr>
+  <td width="30%"><img src="img/logo3_fundo_branco_small.png" height="60"><td> 
+  <td> 
+    <a href="#testimonials"> Testemunhos </a>
+    .
+    <a href="#catalogo"> Catálogo de cursos </a>
+    .
+    <a href="#comofunciona"> Como funciona </a>
+    .
+    <a href="#faq"> FAQs </a>
+  </td>
+  </tr>
+</table>
+
+
+<table style="width:100%">
+  <tr>
      <td width="77%"><h1>Onde você quer chegar?</h1> <h3>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h3><br><br>
    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
   <td><img src="img/logo3_fundo_branco_small.png" height="60"></td>
