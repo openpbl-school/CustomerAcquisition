@@ -1,15 +1,15 @@
 <a name="start"></a>
 
 <p align="center">    
-    **OpenPBL**
+   <en>OpenPBL</en>
     |
-    <a href="#testimonials">Testemunhos</a>
+    <a href="#testimonials"> Testemunhos </a>
     .
-    <a href="#catalogo">Catálogo de cursos</a>
+    <a href="#catalogo"> Catálogo de cursos </a>
     .
-    <a href="#comofunciona">Como funciona</a>
+    <a href="#comofunciona"> Como funciona </a>
     .
-    <a href="#faq">FAQs</a>
+    <a href="#faq"> FAQs </a>
 </p>
 
 <br>
