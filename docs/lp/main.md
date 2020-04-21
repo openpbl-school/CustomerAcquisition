@@ -23,11 +23,6 @@
 </table>
 
 
-<a name="comofunciona"></a> <br>
-
-##
-
-
 <table style="width:100%">
   <tr>
    <td width="77%"><h1>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1>
@@ -36,9 +31,26 @@
   </tr>
 </table>
 
+
+<table style="width:100%">
+  <tr>
+   <td width="77%"><h3><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h3> 
+   <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br>
+    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/testm_person_01.png"> <a href="#storytelling">Ver o caso completo.</a> </td>
+  </tr>
+</table>
+
+
+
+<a name="comofunciona"></a> <br>
+
+##
+
+
 <br>
 
-## PASSO A PASSO DO PRODUTO
+PASSO A PASSO DO PRODUTO
 
 ### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
 - Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
@@ -73,14 +85,7 @@
 
 <br>
 
-<table style="width:100%">
-  <tr>
-   <td width="77%"><h3><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h3> 
-   <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br>
-    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/testm_person_01.png"> <a href="#storytelling">Ver o caso completo.</a> </td>
-  </tr>
-</table>
+
 
 <table style="width:100%">
   <tr>
@@ -197,6 +202,13 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 
 <br>
 
+<table style="width:100%">
+  <tr>
+   <td width="77%"><h1>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1>
+     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/logo3_fundo_branco_small.png"></td>
+  </tr>
+</table>
 
 
 <a name="storytelling"></a>
