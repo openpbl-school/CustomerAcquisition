@@ -1,7 +1,7 @@
 <a name="start"></a>
 
 <p align="center">    
-    <h3>OpenPBL</h3>
+    **OpenPBL**
     |
     <a href="#testimonials">Testemunhos</a>
     .
