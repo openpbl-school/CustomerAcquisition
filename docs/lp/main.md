@@ -29,10 +29,10 @@
         <a href="#catalogo">Ir para o catálogo de cursos.</a>
     </td> 
     <td>
-       <img src="img/testm_person_01.png" height="120"><br>
+       <img src="img/testm_person_01.png" height="240"><br>
        <em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em>
        <br>
-       <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong>
+       <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b>
        <br><br>
        <a href="#storytelling">Ver o caso completo.</a>
     </td>
