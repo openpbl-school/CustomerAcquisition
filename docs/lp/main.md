@@ -18,7 +18,7 @@
 
 <table style="width:100%">
   <tr>
-    <td width="77%"><h1>Onde você quer chegar?</h1>
+    <td width="60%"><h1>Onde você quer chegar?</h1>
         <br>
         <br>
         <br>
@@ -69,13 +69,11 @@
 </table>
 
 
-
-
-
+<br><br>
 
 <a name="comofunciona"></a>
 
-##.
+##
 
 <br>
 
