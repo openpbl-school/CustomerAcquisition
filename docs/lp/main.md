@@ -1,16 +1,14 @@
-<a name="start"></a> 
+<a name="start"></a>
 
-<p align="left">    
-    <a href="#english"><img src="img/logo3_fundo_branco_small.png" height="60"></a>
-</p>
-
-<p align="left">    
+<p align="center">    
+    <a href="#start"><en>OpenPBL</en></a>
+    ·
     <a href="#testimonials">Testemunhos</a>
-    ·
+    |
     <a href="#catalogo">Catálogo de cursos</a>
-    ·
+    |
     <a href="#comofunciona">Como funciona</a>
-    ·
+    |
     <a href="#faq">FAQs</a>
 </p>
 
@@ -20,7 +18,7 @@
   <tr>
     <td width="77%"><h1>Onde você quer chegar? Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h1>
    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/logo3_fundo_branco_small.png"></td>
+  <td><img src="img/logo3_fundo_branco_small.png" height="60"></td>
   </tr>
 </table>
 
