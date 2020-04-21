@@ -2,13 +2,13 @@
 
 <p align="center">    
    <b>OpenPBL</b>
-      |  
+    |  
     <a href="#testimonials"> Testemunhos </a>
-    .  
+    .
     <a href="#catalogo"> Catálogo de cursos </a>
-    .  
+    .
     <a href="#comofunciona"> Como funciona </a>
-    .  
+    .
     <a href="#faq"> FAQs </a>
 </p>
 
@@ -22,13 +22,6 @@
   </tr>
 </table>
 
-<table style="width:100%">
-  <tr>
-   <td width="77%"><h1>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1>
-     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/logo3_fundo_branco_small.png"></td>
-  </tr>
-</table>
 
 <br>
 
@@ -91,8 +84,20 @@
 
 <br>
 
-
 <a name="comofunciona"></a> <br>
+
+##
+
+
+<table style="width:100%">
+  <tr>
+   <td width="77%"><h1>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1>
+     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/logo3_fundo_branco_small.png"></td>
+  </tr>
+</table>
+
+<br>
 
 ## PASSO A PASSO DO PRODUTO
 
@@ -120,7 +125,12 @@
 - Além do registro da sua participação, você receberá posteriormente os **resultados** das avaliações diagnósticas e do seu desempenho na solução de cada problema da sua trilha;
 - Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; 
 
-<br>
+<br><br> 
+
+
+<a name="faq"></a> <br>
+
+##
 
 ## PERGUNTAS MAIS FREQUENTES (FAQs)
 
