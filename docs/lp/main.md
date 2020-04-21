@@ -17,7 +17,7 @@
 <table style="width:100%">
   <tr>
   <td width="30%"><img src="img/logo3_fundo_branco_small.png" height="60"></td> 
-  <td><p align="center">  
+  <td width="70%"><p align="center">  
     <a href="#testimonials"> Testemunhos </a>
     .
     <a href="#catalogo"> Catálogo de cursos </a>
