@@ -1,10 +1,10 @@
 ## OpenPBL Lead Conversion Strategy
 
-https://openpbl-school.github.io/LeadConversion/ 
+https://openpbl-school.github.io/CustomerAcquisition/ 
 
 
-https://openpbl-school.github.io/LeadConversion/lp/main 
+https://openpbl-school.github.io/CustomerAcquisition/lp/main 
 
 
-https://openpbl-school.github.io/LeadConversion/shop/catalog  
+https://openpbl-school.github.io/CustomerAcquisition/shop/catalog  
 
