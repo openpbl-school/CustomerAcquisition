@@ -1,6 +1,6 @@
 ## CONVERSÃO B2C   
 
-### Elementos escolhidos para comunicação dos atributos
+### Elementos para comunicação dos atributos
 - Slogans; 
 - Testemunhos das personas; 
 - Passo a passo do produto (tutorial como funciona); 
@@ -18,7 +18,7 @@
 
 <br>
 
-## PÚBLICO ALVO B2C (extraídos da apresentação) 
+## PÚBLICO ALVO B2C
 
 ### Segmentação do PA B2C por objetivos (4)
 - **Público B2C-1**. **Alunos** de escolas de formação profissional (superior e nível médio), cursando o terço final de seus programas educacionais ;
@@ -32,7 +32,7 @@
 
 <br>
 
-## MERCADO (detalhamento extraído da apresentação) 
+## MERCADO 
 
 ### Mecanismos de aumento da empregabilidade
 - A empregabilidade de um profissional está **relacionada** com as suas **competências técnicas** (conhecimentos e habilidades técnicas) e com a sua **experiência** numa mesma função.
@@ -57,7 +57,7 @@
 
 <br>
 
-## ATRIBUTOS (argumentos extraídos da apresentação) 
+## ATRIBUTOS 
 
 ### Produto base OpenPBL
 - **ExperiênciaPBL** = Curso híbrido (semi-presencial), onde o aluno participa de uma experiência de aprendizagem **completa**, baseada na discussão de **um problema real** e **típico** da sua carreira;
@@ -138,7 +138,9 @@
 
 <br>
 
-## TESTEMUNHOS DAS PERSONAS 
+## TESTEMUNHOS DAS PERSONAS
+
+Alguns exemplos de possíveis testemunhos para as personas.  
 
 -  Persona “aluno”  <br>
 **Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL**. <br>
@@ -162,8 +164,7 @@
 
 -  Persona “recrutador”  <br>
 **Rosana Mendonça, diretora de RH da Plásticos do Brasil**. <br>
-"Profissionais que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização".
-
+"Profissionais que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização".<br><br> 
 
 
 ## SCRIPT PARA CONTACT CENTER
