@@ -1,3 +1,10 @@
+## PASSO A PASSO DO PRODUTO
+
+### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
+
+- Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
+- Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br>
+
 <a name="start"></a>
 
 <table style="width:100%">
