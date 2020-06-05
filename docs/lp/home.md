@@ -10,10 +10,7 @@
     .
     <a href="#comofunciona">Como funciona</a>
     .
-     <a href="#faq">FAQs</a>
-  </td>
-  </tr>
-</table>
+     <a href="#faq">FAQs</a></td></tr></table>
 
 
 <table style="width:100%">
@@ -26,8 +23,7 @@
         <b>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</b>
         <br>
         <br>
-        <a href="#catalogo">Ir para o catálogo de cursos.</a>
-    </td> 
+        <a href="#catalogo">Ir para o catálogo de cursos.</a></td> 
     <td>
        <img src="img/testm_person_01.png" height="240"><br>
        <em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em>
