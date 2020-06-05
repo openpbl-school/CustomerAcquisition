@@ -1,16 +1,19 @@
 <a name="start"></a>
 
 <table style="width:100%">
-  <tr>
-  <td><img src="img/logo3_fundo_branco_small.png" height="60"></td> 
-  <td width="80%">
-    <a href="#testimonials">Testemunhos</a>
-    .
-    <a href="#catalogo">Catálogo de cursos</a>
-    .
-    <a href="#comofunciona">Como funciona</a>
-    .
-     <a href="#faq">FAQs</a></td></tr></table>
+    <td>
+      <img src="img/logo3_fundo_branco_small.png" height="60">
+    </td> 
+    <td width="80%">
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#faq">FAQs</a>
+    </td>
+</table>
 
 
 <table style="width:100%">
