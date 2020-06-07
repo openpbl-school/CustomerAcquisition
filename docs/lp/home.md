@@ -12,9 +12,7 @@
      .
      <a href="#catalogo">Catálogo de cursos</a>
      .
-     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
-     .
-     <a href="#faq">FAQs</a>
+     <a href="#faq">Perguntas frequentes</a>
     </td>
 </table>
 
@@ -39,7 +37,7 @@
 
 <a name="comofunciona"></a>
 
-<center><h1>Escola Profissionalizante OpenPBL</h1></center><br>
+<center><h1>Escola Profissionalizante OpenPBL</h1></center>
 <center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center>
 
 <br>
@@ -150,7 +148,7 @@
      .
      <a href="#sobre-pbl">Sobre Problem-based Learning.</a>
      .
-     <a href="#sobre-trilhas">Sobre as trilhas/a></p><br>
+     <a href="#sobre-trilhas">Sobre as trilhas</a></p><br>
 
 <br>
 
