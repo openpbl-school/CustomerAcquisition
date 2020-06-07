@@ -21,13 +21,11 @@
 
 <table style="width:100%">
     <td width="60%"><h1>Onde você quer chegar?</h1>
-        <br>
-        <br>
-        <br>
-        <b>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</b><br>  
-        <b>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</b>
-        <br>
-        <br>
+        <br><br>
+        <h2>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h2><br>
+        <br><br>
+        <h2>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h2>
+        <br><br>
         <a href="#catalogo">Ir para o catálogo de cursos.</a>
     </td> 
     <td>
