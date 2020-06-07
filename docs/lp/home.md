@@ -12,6 +12,14 @@
 
 <table style="width:100%">
   <tr>
+    <td width="77%"><h1>Onde você quer chegar? Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h1>
+   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/logo3_fundo_branco_small.png"></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
    <td width="77%"><h1>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1>
      <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
   <td><img src="img/logo3_fundo_branco_small.png"></td>
