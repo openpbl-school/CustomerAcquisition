@@ -40,8 +40,20 @@
     </td>
 </table>
 
-<br> <p align="center"><a href="#start">voltar</a></p>
+<br> 
 
+<p align="center">
+    <a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
+     .
+     <a href="#faq">FAQs</a></p>
+
+<br>
 
 <a name="comofunciona"></a>
 
@@ -81,8 +93,6 @@
 
 
 <a name="testimonials"></a>
-
-<br>
 
 ## TESTEMUNHOS 
 
@@ -151,8 +161,6 @@
 
 
 <a name="faq"></a> 
-
-<br>
 
 ## PERGUNTAS MAIS FREQUENTES (FAQs)
 
