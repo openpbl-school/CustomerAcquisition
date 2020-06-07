@@ -39,6 +39,7 @@
 
 <a name="comofunciona"></a>
 
+<center><h1>Escola Profissionalizante OpenPBL</h1></center><br><br>
 <center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center>
 
 <br>
@@ -73,20 +74,17 @@
 - Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; <br><br>
 
 
-<p align="center"><a href="#comofunciona">Como funciona</a>
+<p align="center"><a href="#testimonials">Testemunhos de profissionais do mercado</a>
      .
-     <a href="#testimonials">Testemunhos</a>
+     <a href="#catalogo">Ir para o catálogo de cursos.</a>
      .
-     <a href="#catalogo">Catálogo de cursos</a>
-     .
-     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
-     .
-     <a href="#faq">FAQs</a></p><br>
+     <a href="#faq">Perguntas frequentes</a></p><br>
 
 
 <a name="testimonials"></a>
 
-## TESTEMUNHOS 
+<center><h1>Escola Profissionalizante OpenPBL</h1></center><br><br>
+<center><h1>Testemunhos de profissionais de mercado.</h1></center>
 
 <br>
 
@@ -138,20 +136,17 @@
 <br>
 
 
-<p align="center"><a href="#comofunciona">Como funciona</a>
+<p align="center"><a href="#comofunciona">Quero entender como funciona</a>
      .
-     <a href="#testimonials">Testemunhos</a>
+     <a href="#catalogo">Ir para o catálogo de cursos.</a>
      .
-     <a href="#catalogo">Catálogo de cursos</a>
-     .
-     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
-     .
-     <a href="#faq">FAQs</a></p><br>
+     <a href="#faq">Perguntas frequentes</a></p><br>
 
 
 <a name="faq"></a> 
 
-## PERGUNTAS MAIS FREQUENTES (FAQs)
+<center><h1>Escola Profissionalizante OpenPBL</h1></center><br><br>
+<center><h1>Perguntas frequentes (FAQs).</h1></center>
 
 <br>
 
