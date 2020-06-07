@@ -3,10 +3,26 @@
 <a name="start"></a> 
 
 <table style="width:100%">
+    <td>
+      <img src="img/logo3_fundo_branco_small.png" height="60">
+    </td> 
+    <td width="80%">
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#faq">FAQs</a>
+    </td>
+</table>
+
+
+
+<table style="width:100%">
   <tr>
-    <td width="77%"><h1>Onde você quer chegar? Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h1>
-   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/logo3_fundo_branco_small.png"></td>
+    <td width="20%"><img src="img/logo3_fundo_branco_small.png" height="60"></td>
+  <td></td>
   </tr>
 </table>
 
@@ -91,16 +107,8 @@
 <br>
 
 
+=========================================================================================================================================
 
-## PASSO A PASSO DO PRODUTO
-
-### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
-
-- Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
-- Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br>
-
-
-<a name="start"></a>
 
 <table style="width:100%">
     <td>
