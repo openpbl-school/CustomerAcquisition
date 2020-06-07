@@ -5,14 +5,14 @@
     <td width="20%">
       <img src="img/logo3_fundo_branco_small.png" height="60">
     </td> 
-    <td width="80%"><p align="right">
+    <td width="80%">
      <a href="#comofunciona">Como funciona</a>
      .
      <a href="#testimonials">Testemunhos</a>
      .
      <a href="#catalogo">Catálogo de cursos</a>
      .
-     <a href="#faq">Perguntas frequentes</a></p>
+     <a href="#faq">Perguntas frequentes</a>
     </td>
 </table>
 
