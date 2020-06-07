@@ -35,22 +35,11 @@
     </td>
 </table>
 
-<br> 
-
-<p align="center"><a href="#comofunciona">Como funciona</a>
-     .
-     <a href="#testimonials">Testemunhos</a>
-     .
-     <a href="#catalogo">Catálogo de cursos</a>
-     .
-     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
-     .
-     <a href="#faq">FAQs</a></p><br>
-
+<br><br>
 
 <a name="comofunciona"></a>
 
-## PASSO A PASSO DO PRODUTO (COMO FUNCIONA)
+<p align="center"><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></p>
 
 ### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
 
