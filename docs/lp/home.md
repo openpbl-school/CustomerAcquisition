@@ -86,26 +86,23 @@
   <tr>
     <td><img src="img/testm_person_03.png"></td>
     <td width="80%"><h2><em>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</em></h2>
-<strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br> 
-    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+<strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
    <td width="80%"><h2><em>"Os profissionais treinados pelo método da aprendizagem baseada em problemas simulam a aplicação de seus conhecimentos técnicos em situações reais de incerteza, assimetria de informação, restrições de recursos e pressões diversas. Isso faz toda a diferença no dia a dia".</em></h2>
-<strong>Ricardo Cardoso, Gerente de cargas da ALL Logística e cliente da OpenPBL.</strong><br> 
-    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+<strong>Ricardo Cardoso, Gerente de cargas da ALL Logística e cliente da OpenPBL.</strong><br></td>
   <td><img src="img/testm_person_04.png"></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/openpbl-school/LeadConversion/blob/master/docs/img/testm_person_02.png"></td>
+    <td><img src="img/testm_person_02.png"></td>
     <td width="80%"><h2><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</em></h2>
-<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
-   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
   </tr>
 </table>
 
@@ -113,27 +110,24 @@
   <tr>
     <td><img src="img/testm_person_02.png"></td>
     <td width="80%"><h2><em>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização". </em></h2>
-<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
-   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
    <td width="80%"><h2><em>"Eu sou um colaborador frequente da OpenPBL por acreditar no método de ensino. Procuro sugerir problemas que eu já tenha vivido na carreira ou que eu tenho presenciado meus analistas enfrentarem".</em></h2>
-<strong>Eduardo Pinho, Gerente de atendimento do Hospital de Oncologia de Ribeirão Preto e autor-especialista OpenPBL.</strong><br> 
-     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+<strong>Eduardo Pinho, Gerente de atendimento do Hospital de Oncologia de Ribeirão Preto e autor-especialista OpenPBL.</strong><br></td>
   <td><img src="img/testm_person_05.png"></td>
   </tr>
 </table>
 
 <br><br>
 
-<p align="center"><a href="#comofunciona">Quero entender como funciona</a>
-     .
-     <a href="#catalogo">Ir para o catálogo de cursos.</a>
-     .
+<p align="center"><a href="#comofunciona">Quero entender como funciona</a> | 
+     <a href="#catalogo">Ir para o catálogo de cursos</a> | 
      <a href="#faq">Perguntas frequentes</a></p><br><br><br>
+     
 
 
 <a name="faq"></a> 
