@@ -39,12 +39,11 @@
 
 <center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center><br>
 
-<center><h2>Escolha uma das trilhas da sua carreira</h2></center><br>
-
+<center><h2>Escolha uma das trilhas da sua carreira...</h2></center>
 - Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
-- Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br>
+- Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br><br>
 
-<center><h2>Desenvolva competências profissionais em 5 passos</h2></center>
+<center><h2>... e desenvolva competências profissionais em 5 passos</h2></center><br>
 
 ### Passo 1. Escolha um dos problemas da trilha para dedicar seus estudos.
 
@@ -64,6 +63,11 @@
 - O auge da sua experiência de aprendizagem é a participação em uma **sessão presencial** de três horas para discussão das soluções para o problema proposto;
 - A sessão é conduzida por um tutor treinado e é restrita à um grupo de 10 alunos com perfis profissionais e experiência semelhantes às suas;
 - A sua participação na sessão presencial é **gravada**, **editada** e disponibilizada para você em **arquivo audiovisual**;<br><br>
+
+<p align="center">
+  <img src="img/we_work3.png" width="200"><br>
+  <em>Dinâmica de discussões em torno do problema proposto no curso.</em>
+</p><br><br>
 
 ### Passo 4. Reflita sobre seu desempenho e avance para o próximo problema.
 
