@@ -39,7 +39,7 @@
 
 <a name="comofunciona"></a>
 
-<center><h1>Escola Profissionalizante OpenPBL</h1></center><br><br>
+<center><h1>Escola Profissionalizante OpenPBL</h1></center><br>
 <center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center>
 
 <br>
@@ -78,12 +78,11 @@
      .
      <a href="#catalogo">Ir para o catálogo de cursos.</a>
      .
-     <a href="#faq">Perguntas frequentes</a></p><br>
+     <a href="#faq">Perguntas frequentes</a></p><br><br>
 
 
 <a name="testimonials"></a>
 
-<center><h1>Escola Profissionalizante OpenPBL</h1></center><br><br>
 <center><h1>Testemunhos de profissionais de mercado.</h1></center>
 
 <br>
@@ -135,7 +134,6 @@
 
 <br>
 
-
 <p align="center"><a href="#comofunciona">Quero entender como funciona</a>
      .
      <a href="#catalogo">Ir para o catálogo de cursos.</a>
@@ -145,10 +143,18 @@
 
 <a name="faq"></a> 
 
-<center><h1>Escola Profissionalizante OpenPBL</h1></center><br><br>
 <center><h1>Perguntas frequentes (FAQs).</h1></center>
 
+<p align="center">
+     <a href="#sobre-cursos">Sobre os cursos</a>
+     .
+     <a href="#sobre-pbl">Sobre Problem-based Learning.</a>
+     .
+     <a href="#sobre-trilhas">Sobre as trilhas/a></p><br>
+
 <br>
+
+<a name="sobre-cursos"></a> 
 
 ### SOBRE O PROCESSO OPEN-PBL
 
@@ -180,6 +186,8 @@ Não. Cada aluno participante da sessão presencial recebe um arquivo audiovisua
 
 <br>
 
+<a name="sobre-pbl"></a> 
+
 ### SOBRE O MÉTODO OPEN-PBL 
 
 ### O que significa PBL?
@@ -201,6 +209,11 @@ Podemos listar como competências profissionais não técnicas de ordem superior
   - Atuação sob pressão de prazo, desempenho e opiniões diversas;
   - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação;
   - Visão orçamentária, atitude empreendedora e outras mais.
+
+
+<a name="sobre-pbl"></a> 
+
+
 
 <br><br>
 
