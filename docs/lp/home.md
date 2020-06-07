@@ -2,7 +2,7 @@
 <a name="start"></a> 
 
 <table style="width:100%">
-    <td>
+    <td width="20%">
       <img src="img/logo3_fundo_branco_small.png" height="60">
     </td> 
     <td width="80%">
@@ -36,7 +36,7 @@
        <br>
        <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b>
        <br><br>
-       <a href="#storytelling">Ver o caso completo.</a>
+       <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Ver o caso completo.</a>
     </td>
 </table>
 
