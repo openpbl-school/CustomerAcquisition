@@ -28,7 +28,7 @@
            <img src="img/testm_person_01.png" height="200"><br>
            "Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".<br>
           <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b><br>
-          <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank"><ver o caso completo></a>
+          <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a>
       </p>
     </td>
 </table>
