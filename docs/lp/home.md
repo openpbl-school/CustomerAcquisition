@@ -65,15 +65,15 @@
 - A sessão é conduzida por um tutor treinado e é restrita à um grupo de 10 alunos com perfis profissionais e experiência semelhantes às suas;
 - A sua participação na sessão presencial é **gravada**, **editada** e disponibilizada para você em **arquivo audiovisual**;<br><br>
 
-<p align="center">
-  <img src="img/we_work3.jpg" width="200"><br>
-  <em>Dinâmica de discussões em torno do problema proposto no curso.</em>
-</p><br><br>
-
 ### Passo 4. Reflita sobre seu desempenho e avance para o próximo problema.
 
 - Além do registro da sua participação, você receberá posteriormente os **resultados** das avaliações diagnósticas e do seu desempenho na solução de cada problema da sua trilha;
 - Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; <br><br><br>
+
+<p align="center">
+  <img src="img/we_work3.jpg" width="400"><br>
+  <em>Dinâmica de discussões em torno do problema proposto no curso.</em>
+</p><br><br>
 
 
 <p align="center"><a href="#testimonials">Testemunhos de profissionais do mercado</a>
