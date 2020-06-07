@@ -5,14 +5,14 @@
     <td width="20%">
       <img src="img/logo3_fundo_branco_small.png" height="60">
     </td> 
-    <td width="80%">
+    <td width="80%"><p align="right">
      <a href="#comofunciona">Como funciona</a>
      .
      <a href="#testimonials">Testemunhos</a>
      .
      <a href="#catalogo">Catálogo de cursos</a>
      .
-     <a href="#faq">Perguntas frequentes</a>
+     <a href="#faq">Perguntas frequentes</a></p>
     </td>
 </table>
 
@@ -26,21 +26,18 @@
     <td>
       <p align="center">
            <img src="img/testm_person_01.png" height="200"><br>
-           <em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em><br><br>
-          <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b><br><br>
-          <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Ver o caso completo.</a>
+           "Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".<br>
+          <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b><br>
+          <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank"><ver o caso completo></a>
       </p>
     </td>
 </table>
 
-<br><br>
+<br><br><br>
 
 <a name="comofunciona"></a>
 
-<center><h1>- Escola Profissionalizante OpenPBL - <br>
-Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center>
-
-<br>
+<center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center><br>
 
 ### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
 
@@ -69,14 +66,14 @@ Educação continuada, centrada no aluno e <br>baseada em problemas típicos da 
 ### 5. Reflita sobre seu desempenho e avance para o próximo problema.
 
 - Além do registro da sua participação, você receberá posteriormente os **resultados** das avaliações diagnósticas e do seu desempenho na solução de cada problema da sua trilha;
-- Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; <br><br>
+- Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; <br><br><br>
 
 
 <p align="center"><a href="#testimonials">Testemunhos de profissionais do mercado</a>
      .
      <a href="#catalogo">Ir para o catálogo de cursos.</a>
      .
-     <a href="#faq">Perguntas frequentes</a></p><br><br>
+     <a href="#faq">Perguntas frequentes</a></p><br><br><br>
 
 
 <a name="testimonials"></a>
@@ -130,13 +127,13 @@ Educação continuada, centrada no aluno e <br>baseada em problemas típicos da 
   </tr>
 </table>
 
-<br>
+<br><br>
 
 <p align="center"><a href="#comofunciona">Quero entender como funciona</a>
      .
      <a href="#catalogo">Ir para o catálogo de cursos.</a>
      .
-     <a href="#faq">Perguntas frequentes</a></p><br>
+     <a href="#faq">Perguntas frequentes</a></p><br><br><br>
 
 
 <a name="faq"></a> 
