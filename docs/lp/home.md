@@ -37,8 +37,8 @@
 
 <a name="comofunciona"></a>
 
-<center><h1>Escola Profissionalizante OpenPBL</h1></center>
-<center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center>
+<center><h1>- Escola Profissionalizante OpenPBL - <br>
+Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center>
 
 <br>
 
