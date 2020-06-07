@@ -16,6 +16,10 @@
     </td>
 </table>
 
+<p align="center">
+  <img src="img/banner1.png" width="500"><br>
+</p><br><br>
+
 <table style="width:100%">
     <td width="65%"><h1>Onde você quer chegar?</h1>
         <h2>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h2>
