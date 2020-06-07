@@ -17,7 +17,7 @@
 </table>
 
 <table style="width:100%">
-    <td width="55%"><h1>Onde você quer chegar?</h1>
+    <td width="65%"><h1>Onde você quer chegar?</h1>
         <h2>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h2>
         <h2>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h2>
         <br>
@@ -25,8 +25,8 @@
     </td> 
     <td>
       <p align="center">
-           <img src="img/testm_person_01.png" height="200"><br>
-           "Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".<br>
+           <img src="img/testm_person_01.png" height="250"><br>
+           <i>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</i><br>
           <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b><br>
           <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a>
       </p>
@@ -39,31 +39,33 @@
 
 <center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center><br>
 
-### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
+## Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
 
 - Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
 - Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br>
 
-### 2. Escolha um dos problemas da trilha para dedicar seus estudos.
+<center><h2>Desenvolva competências profissionais em 5 passos</h2></center><br>
+
+### Passo 1. Escolha um dos problemas da trilha para dedicar seus estudos.
 
 - Cada título da sua trilha de carreira aborda um **problema real** típico da sua função, vivido por profissionais como você;
 - Esses problemas são propostos por **experientes profissionais** que são gestores de profissionais como você;
 - Ao escolher um título, você tem acesso à um conteúdo textual e audiovisual (*ebook*) que descreve e contextualiza os elementos principais do problema proposto;
 - Para ajudar a assimilar os principais elementos do cenário descritivo do problema, nós fazemos uma **avaliação** online com você;<br><br>
 
-### 3. Prepare a sua própria solução para o problema.
+### Passo 2. Prepare a sua própria solução para o problema.
 
 - Para apresentar uma solução para o problema proposto, você precisará de um conjunto mínimo de **conhecimentos técnicos**. É possível que você não ainda não domine alguns destes conhecimentos;
 - Para ajudá-lo a conseguir os conhecimentos que você ainda não tem, nós fazemos uma **avaliação diagnóstica** online, através de um banco de questões, que é **adaptado ao seu progresso**. Assim, podemos ajudá-lo a identificar mais rapidamente as suas deficiências e recomendar textos, vídeos, livros, enfim, toda sorte de conteúdo, gratuito ou não;
 - Esta avaliação credencia você a participar da etapa seguinte da sua aprendizagem. Você poderá repetir a avaliação até que esteja preparado. Quando estiver pronto, nós vamos agendar a sua participação em uma das diversas sessões presenciais que discute esse mesmo problema. Na data e local que você escolher, dentre as diversas opções disponíveis;<br><br>
 
-### 4. Discuta a sua solução com outros profissionais.
+### Passo 3. Discuta a sua solução com outros profissionais.
 
 - O auge da sua experiência de aprendizagem é a participação em uma **sessão presencial** de três horas para discussão das soluções para o problema proposto;
 - A sessão é conduzida por um tutor treinado e é restrita à um grupo de 10 alunos com perfis profissionais e experiência semelhantes às suas;
 - A sua participação na sessão presencial é **gravada**, **editada** e disponibilizada para você em **arquivo audiovisual**;<br><br>
 
-### 5. Reflita sobre seu desempenho e avance para o próximo problema.
+### Passo 4. Reflita sobre seu desempenho e avance para o próximo problema.
 
 - Além do registro da sua participação, você receberá posteriormente os **resultados** das avaliações diagnósticas e do seu desempenho na solução de cada problema da sua trilha;
 - Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; <br><br><br>
@@ -71,7 +73,7 @@
 
 <p align="center"><a href="#testimonials">Testemunhos de profissionais do mercado</a>
      .
-     <a href="#catalogo">Ir para o catálogo de cursos.</a>
+     <a href="#catalogo">Ir para o catálogo de cursos</a>
      .
      <a href="#faq">Perguntas frequentes</a></p><br><br><br>
 
