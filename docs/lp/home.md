@@ -5,7 +5,7 @@
     <td width="20%">
       <img src="img/logo3_fundo_branco_small.png" height="60">
     </td> 
-    <td width="80%"><p align="center">
+    <td width="80%"><p align="right">
      <a href="#comofunciona">Como funciona</a>
      .
      <a href="#testimonials">Testemunhos</a>
