@@ -41,6 +41,8 @@
 
 <p align="center"><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></p>
 
+<center><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center>
+
 ### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
 
 - Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
