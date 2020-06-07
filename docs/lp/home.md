@@ -41,9 +41,7 @@
 
 <p align="center"><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></p>
 
-<h1><center>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</center></h1>
-
-<p style="text-align:center"><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></p>
+<center><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center>
 
 <br>
 
