@@ -39,12 +39,12 @@
 
 <center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center><br>
 
-## Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
+<center><h2>Escolha uma das trilhas da sua carreira</h2></center><br>
 
 - Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
 - Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br>
 
-<center><h2>Desenvolva competências profissionais em 5 passos</h2></center><br>
+<center><h2>Desenvolva competências profissionais em 5 passos</h2></center>
 
 ### Passo 1. Escolha um dos problemas da trilha para dedicar seus estudos.
 
