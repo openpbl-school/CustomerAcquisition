@@ -102,16 +102,6 @@
 
 <table style="width:100%">
   <tr>
-   <td width="77%"><h2><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h2> 
-   <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br>
-    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/testm_person_01.png"> <a href="#storytelling">Ver o caso completo.</a> </td>
-  </tr>
-</table>
-
-
-<table style="width:100%">
-  <tr>
     <td><img src="img/testm_person_03.png"></td>
     <td width="80%"><h2><em>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</em></h2>
 <strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br> 
@@ -227,8 +217,17 @@ Podemos listar como competências profissionais não técnicas de ordem superior
   - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação;
   - Visão orçamentária, atitude empreendedora e outras mais.
 
-<br>
-<br>
+<br><br>
+
+<table style="width:100%">
+  <tr>
+   <td width="77%"><h2><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h2> 
+   <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br>
+    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/testm_person_01.png"> <a href="#storytelling">Ver o caso completo.</a> </td>
+  </tr>
+</table>
+
 
 <p align="center"><a href="#comofunciona">Como funciona</a>
      .
@@ -250,6 +249,7 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 <br> bLÁ BLA BLA
 
 <br> 
+
 
 <p align="center"><a href="#comofunciona">Como funciona</a>
      .
