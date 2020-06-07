@@ -17,7 +17,7 @@
 </table>
 
 <p align="center">
-  <img src="img/banner1.png" width="800"><br>
+  <img src="img/banner1.png" width="850"><br>
 </p><br><br>
 
 <table style="width:100%">
