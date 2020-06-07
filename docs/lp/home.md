@@ -39,9 +39,7 @@
 
 <a name="comofunciona"></a>
 
-<p align="center"><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></p>
-
-<center><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center>
+<center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center>
 
 <br>
 
