@@ -1,6 +1,6 @@
 ## ENSAIOS
 
-<a name="start2"></a> 
+<a name="start"></a> 
 
 <table style="width:100%">
     <td>
@@ -78,77 +78,8 @@
   </tr>
 </table>
 
-<table style="width:100%">
-  <tr>
-    <td><img src="img/testm_person_03.png"></td>
-    <td width="80%"><h2><em>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</em></h2>
-<strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br> 
-    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-   <td width="80%"><h2><em>"Os profissionais treinados pelo método da aprendizagem baseada em problemas simulam a aplicação de seus conhecimentos técnicos em situações reais de incerteza, assimetria de informação, restrições de recursos e pressões diversas. Isso faz toda a diferença no dia a dia".</em></h2>
-<strong>Ricardo Cardoso, Gerente de cargas da ALL Logística e cliente da OpenPBL.</strong><br> 
-    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/testm_person_04.png"></td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-    <td><img src="img/testm_person_02.png"></td>
-    <td width="80%"><h2><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</em></h2>
-<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
-   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-    <td><img src="img/testm_person_02.png"></td>
-    <td width="80%"><h2><em>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização". </em></h2>
-<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
-   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-   <td width="80%"><h2><em>"Eu sou um colaborador frequente da OpenPBL por acreditar no método de ensino. Procuro sugerir problemas que eu já tenha vivido na carreira ou que eu tenho presenciado meus analistas enfrentarem".</em></h2>
-<strong>Eduardo Pinho, Gerente de atendimento do Hospital de Oncologia de Ribeirão Preto e autor-especialista OpenPBL.</strong><br> 
-     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/testm_person_05.png"></td>
-  </tr>
-</table>
-
-<br>
-<p align="center"><a href="#comofunciona">Quero entender como funciona</a>  |  <a href="#start">voltar</a> </p>
-
-<br>
 
 
-=========================================================================================================================================
-
-## ENSAIOS
-
-<a name="start"></a> 
-
-<table style="width:100%">
-    <td>
-      <img src="img/logo3_fundo_branco_small.png" height="60">
-    </td> 
-    <td width="80%">
-     <a href="#testimonials">Testemunhos</a>
-     .
-     <a href="#catalogo">Catálogo de cursos</a>
-     .
-     <a href="#comofunciona">Como funciona</a>
-     .
-     <a href="#faq">FAQs</a>
-    </td>
-</table>
 
 
 <table style="width:100%">
@@ -188,19 +119,6 @@
      <td>
          <img src="img/logo3_fundo_branco_small.png" height="60">
      </td>
-</table>
-
-
-<table style="width:100%">
-    <td width="77%"><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em>
-     <br>
-     <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong>
-     <br><br>
-     <a href="#catalogo">Ir para o catálogo de cursos.</a>
-   </td>
-   <td><img src="img/testm_person_01.png" height="120"><br>
-       <a href="#storytelling">Ver o caso completo.</a>
-    </td>
 </table>
 
 <br><br>
