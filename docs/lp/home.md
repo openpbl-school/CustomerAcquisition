@@ -17,13 +17,10 @@
 </table>
 
 <p align="center">
-  <img src="img/banner1.png" width="850"><br>
-</p><br><br>
-
-<table style="width:100%">
-    <p align="center"><a href="#comofunciona">Quero entender como funciona</a></p><br>
-    <p align="center"><a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a></p>
-</table>
+  <img src="img/banner1.png"><br>
+  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a>
+</p><br>
+<p align="center"><a href="#comofunciona">Quero entender como funciona</a></p><br>
 
 <br><br><br>
 
