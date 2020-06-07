@@ -1,6 +1,6 @@
 ## ENSAIOS
 
-<a name="start"></a> 
+<a name="start2"></a> 
 
 <table style="width:100%">
     <td>
@@ -131,7 +131,46 @@
 
 =========================================================================================================================================
 
+## ENSAIOS
 
+<a name="start"></a> 
+
+<table style="width:100%">
+    <td>
+      <img src="img/logo3_fundo_branco_small.png" height="60">
+    </td> 
+    <td width="80%">
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#faq">FAQs</a>
+    </td>
+</table>
+
+
+<table style="width:100%">
+    <td width="60%"><h1>Onde você quer chegar?</h1>
+        <br>
+        <br>
+        <br>
+        <b>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</b><br>  
+        <b>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</b>
+        <br>
+        <br>
+        <a href="#catalogo">Ir para o catálogo de cursos.</a>
+    </td> 
+    <td>
+       <img src="img/testm_person_01.png" height="240"><br>
+       <em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em>
+       <br>
+       <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b>
+       <br><br>
+       <a href="#storytelling">Ver o caso completo.</a>
+    </td>
+</table>
 
 
 
