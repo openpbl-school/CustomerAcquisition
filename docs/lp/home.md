@@ -40,6 +40,7 @@
 <center><h1>Educação continuada, centrada no aluno e <br>baseada em problemas típicos da carreira profissional.</h1></center><br>
 
 <center><h2>Escolha uma das trilhas da sua carreira...</h2></center>
+
 - Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
 - Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br><br>
 
@@ -65,7 +66,7 @@
 - A sua participação na sessão presencial é **gravada**, **editada** e disponibilizada para você em **arquivo audiovisual**;<br><br>
 
 <p align="center">
-  <img src="img/we_work3.png" width="200"><br>
+  <img src="img/we_work3.jpg" width="200"><br>
   <em>Dinâmica de discussões em torno do problema proposto no curso.</em>
 </p><br><br>
 
