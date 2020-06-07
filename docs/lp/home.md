@@ -42,8 +42,7 @@
 
 <br> 
 
-<p align="center">
-    <a href="#comofunciona">Como funciona</a>
+<p align="center"><a href="#comofunciona">Como funciona</a>
      .
      <a href="#testimonials">Testemunhos</a>
      .
@@ -51,9 +50,8 @@
      .
      <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
      .
-     <a href="#faq">FAQs</a></p>
+     <a href="#faq">FAQs</a></p><br>
 
-<br>
 
 <a name="comofunciona"></a>
 
@@ -89,7 +87,15 @@
 - Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; <br><br>
 
 
-<p align="center"><a href="#start">voltar</a></p>
+<p align="center"><a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
+     .
+     <a href="#faq">FAQs</a></p><br>
 
 
 <a name="testimonials"></a>
@@ -156,8 +162,15 @@
 <br>
 <p align="center"><a href="#comofunciona">Quero entender como funciona</a>  |  <a href="#start">voltar</a> </p>
 
-<br>
-
+<p align="center"><a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
+     .
+     <a href="#faq">FAQs</a></p><br>
 
 
 <a name="faq"></a> 
@@ -221,38 +234,45 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 <br>
 <br>
 
-<p align="center"><a href="#start">voltar</a></p>
-
+<p align="center"><a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
+     .
+     <a href="#faq">FAQs</a></p><br>
+     
+     
 <a name="catalogo"></a>
 
 <br>
 
 ## CATÁLOGO DE TÍTULOS  
 
-<br>
-<br>
+<br> bLÁ BLA BLA
 
-<a name="catalogo"></a> 
+<br> 
+
+<p align="center"><a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Storytelling</a>
+     .
+     <a href="#faq">FAQs</a></p><br>
+     
+     
 
 
 
-## Footnotes 
-O NDA para acesso ao plano de negócios com o detalhamento do projeto está disponível em <a href="http://bit.ly/NDA-OpenPBL">Non disclousure agreement</a>
-
-<p align="center"><a href="#start">voltar</a></p>
+============================================================================================================================
 
 
-<p align="center">    
-   <b>OpenPBL</b>
-    |  
-    <a href="#testimonials"> Testemunhos </a>
-    .
-    <a href="#catalogo"> Catálogo de cursos </a>
-    .
-    <a href="#comofunciona"> Como funciona </a>
-    .
-    <a href="#faq"> FAQs </a>
-</p>
+
 
 <table style="width:100%"> 
   <tr>
@@ -263,13 +283,6 @@ O NDA para acesso ao plano de negócios com o detalhamento do projeto está disp
 </table>
 
 <br>
-
-============================================================================================================================
-
-
-
-
-
 
 
 <table style="width:100%">
