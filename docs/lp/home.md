@@ -18,13 +18,12 @@
     </td>
 </table>
 
-
 <table style="width:100%">
     <td width="50%"><h1>Onde você quer chegar?</h1>
         <h2>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h2>
         <h2>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h2>
         <br>
-        <p align="center"><a href="#catalogo">Ir para o catálogo de cursos.</a></p>
+        <p align="center"><a href="#comofunciona">Quero entender como funciona</a></p>
     </td> 
     <td>
       <p align="center">
@@ -146,7 +145,7 @@
 </table>
 
 <br>
-<p align="center"><a href="#comofunciona">Quero entender como funciona</a>  |  <a href="#start">voltar</a> </p>
+
 
 <p align="center"><a href="#comofunciona">Como funciona</a>
      .
@@ -285,3 +284,5 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 </table>
 
 <br>
+
+<p align="center"><a href="#comofunciona">Quero entender como funciona</a>  |  <a href="#start">voltar</a> </p>
