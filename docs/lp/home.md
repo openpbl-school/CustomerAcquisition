@@ -43,6 +43,8 @@
 
 <h1><center>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</center></h1>
 
+<p style="text-align:center"><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></p>
+
 <br>
 
 ### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
