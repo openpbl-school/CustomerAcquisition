@@ -23,7 +23,7 @@
         <br>
         <br>
         <br>
-        <b>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.<br>  
+        <b>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</b><br>  
         <b>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</b>
         <br>
         <br>
