@@ -1,9 +1,96 @@
+## ENSAIOS
+
+<a name="start"></a> 
+
+<table style="width:100%">
+  <tr>
+    <td width="77%"><h1>Onde você quer chegar? Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h1>
+   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/logo3_fundo_branco_small.png"></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+   <td width="77%"><h1>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1>
+     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/logo3_fundo_branco_small.png"></td>
+  </tr>
+</table>
+
+<br>
+
+## TESTEMUNHOS DAS PERSONAS   
+
+<br>
+<table style="width:100%">
+  <tr>
+   <td width="77%"><h2><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h2> 
+   <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br>
+    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/testm_person_01.png"> <a href="#storytelling">Ver o caso completo.</a> </td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <td><img src="img/testm_person_03.png"></td>
+    <td width="80%"><h2><em>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</em></h2>
+<strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br> 
+    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+   <td width="80%"><h2><em>"Os profissionais treinados pelo método da aprendizagem baseada em problemas simulam a aplicação de seus conhecimentos técnicos em situações reais de incerteza, assimetria de informação, restrições de recursos e pressões diversas. Isso faz toda a diferença no dia a dia".</em></h2>
+<strong>Ricardo Cardoso, Gerente de cargas da ALL Logística e cliente da OpenPBL.</strong><br> 
+    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/testm_person_04.png"></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <td><img src="img/testm_person_02.png"></td>
+    <td width="80%"><h2><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</em></h2>
+<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
+   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+    <td><img src="img/testm_person_02.png"></td>
+    <td width="80%"><h2><em>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização". </em></h2>
+<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br> 
+   <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+   <td width="80%"><h2><em>"Eu sou um colaborador frequente da OpenPBL por acreditar no método de ensino. Procuro sugerir problemas que eu já tenha vivido na carreira ou que eu tenho presenciado meus analistas enfrentarem".</em></h2>
+<strong>Eduardo Pinho, Gerente de atendimento do Hospital de Oncologia de Ribeirão Preto e autor-especialista OpenPBL.</strong><br> 
+     <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
+  <td><img src="img/testm_person_05.png"></td>
+  </tr>
+</table>
+
+<br>
+<p align="center"><a href="#comofunciona">Quero entender como funciona</a>  |  <a href="#start">voltar</a> </p>
+
+<br>
+
+
+
 ## PASSO A PASSO DO PRODUTO
 
 ### 1. Matricule-se em uma das *trilhas de carreira* disponíveis no catálogo.
 
 - Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
 - Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br>
+
 
 <a name="start"></a>
 
@@ -21,6 +108,7 @@
      <a href="#faq">FAQs</a>
     </td>
 </table>
+
 
 
 <table style="width:100%">
