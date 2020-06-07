@@ -21,20 +21,8 @@
 </p><br><br>
 
 <table style="width:100%">
-    <td width="65%"><h1>Onde você quer chegar?</h1>
-        <h2>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h2>
-        <h2>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h2>
-        <br>
-        <p align="center"><a href="#comofunciona">Quero entender como funciona</a></p>
-    </td> 
-    <td>
-      <p align="center">
-           <img src="img/testm_person_01.png" height="250"><br>
-           <i>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</i><br>
-          <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b><br>
-          <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a>
-      </p>
-    </td>
+    <p align="center"><a href="#comofunciona">Quero entender como funciona</a></p><br>
+    <p align="center"><a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a></p>
 </table>
 
 <br><br><br>
@@ -264,6 +252,24 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 
 
 ======================================================================================
+
+<table style="width:100%">
+    <td width="65%"><h1>Onde você quer chegar?</h1>
+        <h2>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h2>
+        <h2>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h2>
+        <br>
+        <p align="center"><a href="#comofunciona">Quero entender como funciona</a></p>
+    </td> 
+    <td>
+      <p align="center">
+           <img src="img/testm_person_01.png" height="250"><br>
+           <i>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</i><br>
+          <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b><br>
+          <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a>
+      </p>
+    </td>
+</table>
+
 
 <table style="width:100%">
   <tr>
