@@ -83,7 +83,7 @@
 <table style="width:100%">
   <tr>
     <td><img src="img/testm_person_03.png"></td>
-    <td width="80%"><h2><i>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</i></h2>
+    <td width="80%"><h3><i>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</i></h3>
 <strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br></td>
   </tr>
 </table>
@@ -99,7 +99,7 @@
 <table style="width:100%">
   <tr>
     <td><img src="img/testm_person_02.png"></td>
-    <td width="80%"><h2><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</em></h2>
+    <td width="80%"><h3><i><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</i></h3>
 <strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
   </tr>
 </table>
@@ -107,14 +107,14 @@
 <table style="width:100%">
   <tr>
     <td><img src="img/testm_person_02.png"></td>
-    <td width="80%"><h2><em>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização". </em></h2>
+    <td width="80%"><h3><i>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização". </i></h3>
 <strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
   </tr>
 </table>
 
 <table style="width:100%">
   <tr>
-   <td width="80%"><h2><em>"Eu sou um colaborador frequente da OpenPBL por acreditar no método de ensino. Procuro sugerir problemas que eu já tenha vivido na carreira ou que eu tenho presenciado meus analistas enfrentarem".</em></h2>
+   <td width="80%"><h3><i>"Eu sou um colaborador frequente da OpenPBL por acreditar no método de ensino. Procuro sugerir problemas que eu já tenha vivido na carreira ou que eu tenho presenciado meus analistas enfrentarem".</i></h3>
 <strong>Eduardo Pinho, Gerente de atendimento do Hospital de Oncologia de Ribeirão Preto e autor-especialista OpenPBL.</strong><br></td>
   <td><img src="img/testm_person_05.png"></td>
   </tr>
@@ -122,7 +122,7 @@
 
 <table style="width:100%">
   <tr>
-   <td width="80%"><h2><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h2> 
+   <td width="80%"><h4><i>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</i></h4>
    <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br></td>
     <td><img src="img/testm_person_01.png"><br>
     <a href="#storytelling">Ver o caso completo.</a> </td>
