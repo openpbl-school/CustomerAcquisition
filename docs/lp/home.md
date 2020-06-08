@@ -7,16 +7,14 @@
 </p>
 
 <table style="width:100%">
-    <td width="80%"><p align="right">
+    <td width="80%"><p align="center">
      <a href="#comofunciona">Como funciona</a>
      .
      <a href="#testimonials">Testemunhos</a>
      .
      <a href="#catalogo">Catálogo de cursos</a>
      .
-     <a href="#faq">Perguntas frequentes</a>
-     | 
-     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso</a></p>
+     <a href="#faq">Perguntas frequentes</a></p>
     </td>
 </table>
 <br><br><br>
