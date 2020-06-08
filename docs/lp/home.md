@@ -99,7 +99,7 @@
 <table style="width:100%">
   <tr>
     <td><img src="img/testm_person_02.png"></td>
-    <td width="80%"><h3><i><em>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</i></h3>
+    <td width="80%"><h3><i>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</i></h3>
 <strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
   </tr>
 </table>
@@ -107,7 +107,7 @@
 <table style="width:100%">
   <tr>
     <td><img src="img/testm_person_02.png"></td>
-    <td width="80%"><h3><i>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização". </i></h3>
+    <td width="80%"><h3><i>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização".</i></h3>
 <strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
   </tr>
 </table>
