@@ -90,7 +90,7 @@
 
 <table style="width:100%">
   <tr>
-   <td width="80%"><h2><em>"Os profissionais treinados pelo método da aprendizagem baseada em problemas simulam a aplicação de seus conhecimentos técnicos em situações reais de incerteza, assimetria de informação, restrições de recursos e pressões diversas. Isso faz toda a diferença no dia a dia".</em></h2>
+   <td width="80%"><h3><i>"Os profissionais treinados pelo método da aprendizagem baseada em problemas simulam a aplicação de seus conhecimentos técnicos em situações reais de incerteza, assimetria de informação, restrições de recursos e pressões diversas. Isso faz toda a diferença no dia a dia".</i></h3>
 <strong>Ricardo Cardoso, Gerente de cargas da ALL Logística e cliente da OpenPBL.</strong><br></td>
   <td><img src="img/testm_person_04.png"></td>
   </tr>
