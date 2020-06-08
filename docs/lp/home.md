@@ -30,10 +30,11 @@
 
 <center><h2> Desenvolva competências profissionais em 6 passos</h2></center><br>
 
-### Passo 1. Matricule-se em uma das trilhas da sua carreira que você escolheu.
+### Passo 1. Matricule-se em uma das trilhas de carreira que um experiente MENTOR preparou.
 
-- Você escolhe uma das **trilhas** desenhadas especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
-- Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com profissionais que têm **interesses** e **experiências profissionais** semelhantes à você;<br><br>
+- Você escolhe uma das **trilhas** desenhadas por um **Mentor OpenPBL** especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
+- Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com outros alunos que têm **interesses** e **experiências profissionais** semelhantes à você;
+- O seu progresso na trilha de carreira é uma forma **inovadora** de participar de um processo de **coaching de carreira profissional**;<br><br>
 
 ### Passo 2. Escolha um dos problemas da trilha para dedicar seus estudos.
 
