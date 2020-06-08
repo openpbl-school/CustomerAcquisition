@@ -1,6 +1,11 @@
 
 <a name="start"></a> 
 
+<p align="center">
+  <img src="img/banner2.png"><br>
+  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso</a>
+</p>
+
 <table style="width:100%">
     <td width="40%">
       <img src="img/logo3_fundo_branco_small.png" height="60">
@@ -15,13 +20,6 @@
         <a href="#faq">Perguntas frequentes</a></p>
     </td>
 </table>
-
-<p align="center">
-  <img src="img/banner1.png"><br>
-  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a>
-</p><br>
-<p align="center"><a href="#comofunciona">Quero entender como funciona</a></p><br>
-
 <br><br><br>
 
 <a name="comofunciona"></a>
