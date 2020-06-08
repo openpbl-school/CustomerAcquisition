@@ -2,7 +2,7 @@
 <a name="start"></a> 
 
 <table style="width:100%">
-    <td width="20%">
+    <td width="40%">
       <img src="img/logo3_fundo_branco_small.png" height="60">
     </td> 
     <td width="80%"><p align="right">
@@ -26,11 +26,11 @@
 
 <a name="comofunciona"></a>
 
-<center><h1>Educação profissionalizante continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center><br>
+<center><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center><br>
 
-<center><h2> Desenvolva competências profissionais em 6 passos</h2></center><br>
+<center><h2> Desenvolva competências profissionais num processo de em 6 passos que um experiente MENTOR preparou para você:</h2></center><br>
 
-### Passo 1. Matricule-se em uma das trilhas de carreira que um experiente MENTOR preparou.
+### Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.
 
 - Você escolhe uma das **trilhas** desenhadas por um **Mentor OpenPBL** especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
 - Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com outros alunos que têm **interesses** e **experiências profissionais** semelhantes à você;
@@ -83,7 +83,7 @@
 <table style="width:100%">
   <tr>
     <td><img src="img/testm_person_03.png"></td>
-    <td width="80%"><h2><em>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</em></h2>
+    <td width="80%"><h2><i>"Profissionais de todos os níveis desejam aumentar a sua empregabilidade para competir por melhores oportunidades. A discussão de soluções para problemas reais e típicos da função promove esse aumento de empregabilidade e diferencia o profissional no mercado de trabalho".</i></h2>
 <strong>Débora Samico, recrutadora da Robert Half e olheira de talentos da OpenPBL.</strong><br></td>
   </tr>
 </table>
