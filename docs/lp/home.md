@@ -3,7 +3,14 @@
 
 <p align="center">
   <img src="img/banner2.png"><br>
-  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso</a>
+  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso</a><br>
+  <a href="#comofunciona">Como funciona</a>
+     .
+     <a href="#testimonials">Testemunhos</a>
+     .
+     <a href="#catalogo">Catálogo de cursos</a>
+     .
+     <a href="#faq">Perguntas frequentes</a>
 </p>
 
 <table style="width:100%">
