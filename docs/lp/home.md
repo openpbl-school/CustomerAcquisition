@@ -118,6 +118,14 @@
   </tr>
 </table>
 
+<table style="width:100%">
+  <tr>
+   <td width="77%"><h2><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h2> 
+   <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br>
+  <td><img src="img/testm_person_01.png"> <a href="#storytelling">Ver o caso completo.</a> </td>
+  </tr>
+</table>
+
 <br><br>
 
 <p align="center"><a href="#comofunciona">Quero entender como funciona</a> | 
@@ -202,14 +210,6 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 
 <br><br>
 
-<table style="width:100%">
-  <tr>
-   <td width="77%"><h2><em>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</em></h2> 
-   <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br>
-    <a href="#catalogo">Ir para o catálogo de cursos.</a></td>
-  <td><img src="img/testm_person_01.png"> <a href="#storytelling">Ver o caso completo.</a> </td>
-  </tr>
-</table>
 
 
 <p align="center"><a href="#comofunciona">Como funciona</a>
@@ -245,27 +245,7 @@ Podemos listar como competências profissionais não técnicas de ordem superior
      <a href="#faq">FAQs</a></p><br>
      
      
-
-
-
 ======================================================================================
-
-<table style="width:100%">
-    <td width="65%"><h1>Onde você quer chegar?</h1>
-        <h2>Somos a OpenPBL. Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h2>
-        <h2>Nós acompanhamos a sua carreira de uma forma especial para que você possa se diferenciar na profissão que escolheu.</h2>
-        <br>
-        <p align="center"><a href="#comofunciona">Quero entender como funciona</a></p>
-    </td> 
-    <td>
-      <p align="center">
-           <img src="img/testm_person_01.png" height="250"><br>
-           <i>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</i><br>
-          <b>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</b><br>
-          <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">ver o caso completo</a>
-      </p>
-    </td>
-</table>
 
 
 <table style="width:100%">
