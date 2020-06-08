@@ -7,9 +7,6 @@
 </p>
 
 <table style="width:100%">
-    <td width="40%">
-      <img src="img/logo3_fundo_branco_small.png" height="60">
-    </td> 
     <td width="80%"><p align="right">
      <a href="#comofunciona">Como funciona</a>
      .
@@ -17,7 +14,9 @@
      .
      <a href="#catalogo">Catálogo de cursos</a>
      .
-        <a href="#faq">Perguntas frequentes</a></p>
+     <a href="#faq">Perguntas frequentes</a>
+     | 
+     <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso</a></p>
     </td>
 </table>
 <br><br><br>
