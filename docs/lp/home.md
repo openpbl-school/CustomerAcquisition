@@ -40,7 +40,7 @@
 
 - Cada título da sua trilha de carreira aborda um **problema real** típico da sua função, vivido por profissionais como você;
 - Esses problemas são propostos por **experientes profissionais** que são gestores de profissionais como você;
-- Ao escolher um título, você tem acesso à um conteúdo textual e audiovisual (*ebook*) que descreve e contextualiza os elementos principais do problema proposto;
+- Ao escolher um título, você tem acesso à um conteúdo textual e audiovisual (*e-book*) que descreve e contextualiza os elementos principais do problema proposto;
 - Para ajudar a assimilar os principais elementos do cenário descritivo do problema, nós fazemos uma **avaliação** online com você;<br><br>
 
 ### Passo 3. Prepare a sua própria solução para o problema.
@@ -51,13 +51,14 @@
 
 ### Passo 4. Discuta a sua solução com outros profissionais.
 
-- O auge da sua experiência de aprendizagem é a participação em uma **sessão presencial** de três horas para discussão das soluções para o problema proposto;
-- A sessão é conduzida por um tutor treinado e é restrita à um grupo de 10 alunos com perfis profissionais e experiência semelhantes às suas;
+- O clímax da sua experiência de aprendizagem é a participação em uma **sessão presencial** de **três horas** para discussão das soluções para o problema proposto;
+- A sessão é conduzida por um **tutor** e é restrita à um grupo de **10 alunos** com perfis profissionais e experiências semelhantes às suas;
 - A sua participação na sessão presencial é **gravada**, **editada** e disponibilizada para você em **arquivo audiovisual**;<br><br>
 
 ### Passo 5. Reflita sobre seu desempenho e avance para o próximo problema.
 
-- Além do registro da sua participação, você receberá posteriormente os **resultados** das avaliações diagnósticas e do seu desempenho na solução de cada problema da sua trilha;
+- Além do registro audiovisual da sua participação, você receberá também os resultados das **avaliações diagnósticas** e do seu **desempenho na solução de cada problema** da sua trilha;
+- Reveja seus argumentos, reflita sobre seu desempenho e faça uma **auto-avaliação** que irá ajudá-lo a subir mais um degrau como profissional;
 - Quando se sentir pronto, avance para mais um problema da sua trilha de carreiras; <br><br><br>
 
 <p align="center">
