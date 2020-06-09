@@ -1,6 +1,3 @@
-<html>
-<body>
-  
 <a name="start"></a> 
 
 <p align="center">
@@ -30,6 +27,9 @@
 
 <h2> Desenvolva competências profissionais num processo de aprendizagem de em seis passos que um experiente mentor preparou para você:</h2><br>
 
+<html>
+<body>
+
 <h3>Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.</h3> 
 <p class="collapsible">Ver mais...</p>
 <div class="content">
@@ -40,7 +40,29 @@
   </p>
 </div>
 
-<p></p>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
+
+
+
+
 
 ### Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.
 
@@ -288,24 +310,3 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 <p align="center"><a href="#comofunciona">Quero entender como funciona</a>  |  <a href="#start">voltar</a> </p>
 
 
-
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-
-</body>
-</html>
