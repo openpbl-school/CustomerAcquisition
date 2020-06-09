@@ -77,7 +77,7 @@
 
 <a name="testimonials"></a>
 
-<center><h1>Testemunhos de profissionais de mercado.</h1></center>
+<center><h1>Testemunhos do mercado.</h1></center>
 
 <br>
 
