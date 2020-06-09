@@ -91,15 +91,7 @@
   <tr>
     <td><img src="img/testm_person_02.png"></td>
     <td width="80%"><h3><i>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</i></h3>
-<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
-  </tr>
-</table>
-
-<table style="width:100%">
-  <tr>
-    <td><img src="img/testm_person_02.png"></td>
-    <td width="80%"><h3><i>"Profissionais já formados que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização".</i></h3>
-<strong>Rosana Gonçalves, diretora executiva do IBRH.</strong><br></td>
+<strong>Rizo Gonçalves, diretor acadêmico da Escola Técnica de Linhares.</strong><br></td>
   </tr>
 </table>
 
@@ -113,7 +105,15 @@
 
 <table style="width:100%">
   <tr>
-   <td width="80%"><h4><i>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</i></h4>
+    <td><img src="img/testm_person_02.png"></td>
+    <td width="80%"><h3><i>"Profissionais que procuram mudança de área, recolocação ou progressão na carreira, encontram na OpenPBL uma ferramenta importante para sua atualização".</i></h3>
+<strong>Rosana Mendonça, diretora de RH da Plásticos Brasil.</strong><br></td>
+  </tr>
+</table>
+
+<table style="width:100%">
+  <tr>
+   <td width="80%"><h3><i>"Me sinto cada vez mais segura para aplicar os conhecimentos aprendidos na faculdade. A diferença entre o meu desempenho e o dos meus colegas de turma é evidente. Sinto que estou avançando mais rapidamente em direção ao meu sonho profissional".</i></h3>
    <strong>Maria Lúcia, aluna de marketing das Faculdades Unipar e aluna da OpenPBL.</strong><br></td>
     <td><img src="img/testm_person_01.png"><br>
     <a href="#storytelling">Ver o caso completo.</a> </td>
