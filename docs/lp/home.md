@@ -89,7 +89,7 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src="img/testm_person_02.png"></td>
+    <td><img src="img/testm_person_06.png"></td>
     <td width="80%"><h3><i>"O treinamento na OpenPBL é recomendado para profissionais em formação que querem se destacar na entrada no mercado de trabalho como complemento ao curso profissionalizante".</i></h3>
 <strong>Rizo Gonçalves, diretor acadêmico da Escola Técnica de Linhares.</strong><br></td>
   </tr>
