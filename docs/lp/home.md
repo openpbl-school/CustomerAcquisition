@@ -17,6 +17,10 @@
 
 <a name="comofunciona"></a>
 
+<p align="center" width="100">
+  <img src="img/logo3-vertical.png"><br>
+</p>
+
 <center><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center><br>
 
 <center><h2> Desenvolva competências profissionais num processo de em 6 passos que um experiente MENTOR preparou para você:</h2></center><br>
