@@ -21,9 +21,9 @@
   <img src="img/logo3-vertical.png" width="250"><br>
 </p>
 
-<center><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center><br>
+<center><h1>Mentoria em seis passos</h1></center><br>
 
-<center><h2> Desenvolva competências profissionais num processo de em 6 passos que um experiente MENTOR preparou para você:</h2></center><br>
+<h2> Desenvolva competências profissionais num processo de aprendizagem de em seis passos que um experiente mentor preparou para você:</h2><br>
 
 ### Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.
 
@@ -60,6 +60,9 @@
   <img src="img/we_work3.jpg" width="400"><br>
   <em>Dinâmica de discussões em torno do problema proposto no curso.</em>
 </p><br><br>
+
+
+<center><h4>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h4></center><br>
 
 
 <p align="center"><a href="#testimonials">Testemunhos de profissionais do mercado</a>
