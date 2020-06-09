@@ -30,13 +30,13 @@
 <html>
 <body>
 
-<p align="right"><h3>Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.</h3><class="collapsible">Ver mais...</p>
+<h3>Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.</h3><p class="collapsible">Ver mais...</p>
 <div class="content">
-  <p align="right">
+  <p><ul>
   <li>Você escolhe uma das <b>trilhas</b> desenhadas por um <b>Mentor OpenPBL</b> especificamente para o <b>cargo</b> e a <b>função</b>  que você escolheu para a sua carreira (por exemplo, <i>analista financeiro ou técnico em enfermagem</i>);</li>
   <li>Para <b>cada título</b>  da trilha, você participa de uma experiência de aprendizagem <b>completa</b>, juntamente com outros alunos que têm <b>interesses</b> e <b>experiências profissionais</b> semelhantes à você;</li>
   <li>O seu progresso na trilha de carreira é uma forma <b>inovadora</b> de participar de um processo de <b>coaching de carreira profissional</b>;</li>
-  </p>
+  </ul></p>
 </div>
 
 <script>
