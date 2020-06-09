@@ -19,12 +19,6 @@
 
 <center><h1>Mentoria em seis passos</h1></center><br>
 
-<p align="center">
-  <img src="img/logo3-vertical.png" width="250"><br>
-</p>
-
-<br>
-
 <h2> Desenvolva competências profissionais num processo de aprendizagem de em seis passos que um experiente mentor preparou para você:</h2><br>
 
 <html>
@@ -266,6 +260,11 @@ Podemos listar como competências profissionais não técnicas de ordem superior
 
 <br> 
 
+<p align="center">
+  <img src="img/logo3-vertical.png" width="250"><br>
+</p>
+
+<br>
 
 <p align="center"><a href="#comofunciona">Como funciona</a>
      .
