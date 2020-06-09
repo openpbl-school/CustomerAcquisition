@@ -17,8 +17,8 @@
 
 <a name="comofunciona"></a>
 
-<p align="center" width="100">
-  <img src="img/logo3-vertical.png"><br>
+<p align="center">
+  <img src="img/logo3-vertical.png" width="100"><br>
 </p>
 
 <center><h1>Educação continuada, centrada no aluno e baseada em problemas típicos da carreira profissional.</h1></center><br>
