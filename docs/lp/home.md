@@ -30,10 +30,11 @@
 
 <h2> Desenvolva competências profissionais num processo de aprendizagem de em seis passos que um experiente mentor preparou para você:</h2><br>
 
-<h4>Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.</h4> <p class="collapsible">+</p>
+<h3>Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.</h3> 
+<p class="collapsible">Ver mais...</p>
 <div class="content">
   <p>
-    - Você escolhe uma das **trilhas** desenhadas por um **Mentor OpenPBL** especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);<br>
+    - Você escolhe uma das <b>trilhas</b> desenhadas por um **Mentor OpenPBL** especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);<br>
 - Para **cada título** da trilha, você participa de uma experiência de aprendizagem **completa**, juntamente com outros alunos que têm **interesses** e **experiências profissionais** semelhantes à você;<br>
 - O seu progresso na trilha de carreira é uma forma **inovadora** de participar de um processo de **coaching de carreira profissional**;<br>
   </p>
