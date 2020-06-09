@@ -40,6 +40,7 @@
 </div>
 
 <p></p>
+
 ### Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.
 
 - Você escolhe uma das **trilhas** desenhadas por um **Mentor OpenPBL** especificamente para o **cargo** e a **função** que você escolheu para a sua carreira (por exemplo, *analista financeiro ou técnico em enfermagem*);
