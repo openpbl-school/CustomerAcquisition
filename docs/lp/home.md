@@ -62,7 +62,7 @@ for (i = 0; i < coll.length; i++) {
 
 
 
-
+<br> 
 
 ### Passo 1. Matricule-se em uma das trilhas da carreira que você escolheu.
 
