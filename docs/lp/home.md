@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="img/banner2.png" width="1080"><br>
-  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso</a><br>
+  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso 2</a><br>
   <a href="#comofunciona">Como funciona</a>
      .
      <a href="#testimonials">Testemunhos</a>
