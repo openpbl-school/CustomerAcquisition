@@ -42,11 +42,12 @@ A OpenPBL é… **"Educação Continuada, adaptada ao aluno e baseada em problem
 <br>
 
 **Profissional do futuro**<br>
-Conhecimentos e habilidades técnicas são importantes para que profissionais alcancem os resultados esperados por suas empresas, mas é o domínio de um conjunto de competências comportamentais que permite que estes profissionais o façam de forma eficiente, ou seja, menos dispendiosa e num prazo mais curto. 
+Conhecimentos e habilidades técnicas são importantes para que profissionais alcancem os resultados esperados por suas empresas, mas é o domínio de um conjunto de competências comportamentais que permite que estes profissionais o façam de forma eficiente, ou seja, menos dispendiosa e num prazo mais curto.
+
 À medida que mundo se torna mais globalizado, dinâmico e automatizado, o domínio destas competências tem se mostrado cada vez mais importante e já pode ser considerado o principal fator de diferenciação entre os profissionais. Entre as competências comportamentais mais valiosas no mundo corporativo, estão: a “tomada de decisão envolvendo incertezas”, a “tomada de decisão envolvendo restrições orçamentárias”, a “atuação em equipe sujeita à negociação”, a “atuação sob pressão de clientes”, e várias outras.
 
-<Auxiliar><br>
-Uma pesquisa publicada em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. <br><br>
+Auxiliar<br>
+Uma pesquisa publicada em 2018 pelo **Fórum Econômico Mundial** elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. Veja o <a href="https://www.weforum.org/agenda/2020/01/davos-2020-future-work-jobs-skills-what-to-know/">relatório da pesquisa</a>.<br><br>
 
 
 **Desenvolvendo Competências Comportamentais** <br>
