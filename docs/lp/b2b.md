@@ -45,10 +45,11 @@ Conhecimentos e habilidades técnicas são importantes para que profissionais al
 À medida que mundo se torna mais globalizado, dinâmico e automatizado, o domínio destas competências tem se mostrado cada vez mais importante e já pode ser considerado o principal fator de diferenciação entre os profissionais. Entre as competências comportamentais mais valiosas no mundo corporativo, estão: a “tomada de decisão envolvendo incertezas”, a “tomada de decisão envolvendo restrições orçamentárias”, a “atuação em equipe sujeita à negociação”, a “atuação sob pressão de clientes”, e várias outras.
 
 <Auxiliar>
-Uma pesquisa publicada em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. 
+Uma pesquisa publicada em 2018 pelo Fórum Econômico Mundial elencou as dez competências profissionais mais desejadas para os trabalhadores do futuro na opinião de gestores de RH de todo o mundo. <br><br>
 
 
 **Desenvolvendo Competências Comportamentais** 
+
 Usualmente, o desenvolvimento das competências comportamentais é um processo auto patrocinado, não supervisionado e executado de forma natural e inconsciente ao longo da carreira profissional. Esse "aprender na prática" é individualizado, pois cada um aprende do seu jeito, mas raramente de maneira estruturada, o que possibilitaria estabelecer padrões de qualidade para evitar distorções na passagem de conhecimento.
   
 Entretanto, dependendo dos estímulos a que são submetidos os profissionais, este processo de desenvolvimento pode levar muito tempo para se concretizar ou, até mesmo, não se concretizar. 
@@ -57,7 +58,7 @@ Para acelerar e tornar mais assertivo este processo, alguns programas educaciona
 
 É o caso, por exemplo, das escolas que ofertam programas educacionais utilizando a Problem Based Learning - PBL (Aprendizagem Baseada em Problemas), uma estratégia de aprendizagem na qual os alunos aprendem resolvendo problemas e refletindo sobre suas experiências. 
 
-Na PBL, esses problemas são apresentados aos alunos sob diversos formatos de experiências de aprendizagem, tais como estudos de caso, simulações, projetos, jogos e outras. 
+Na PBL, esses problemas são apresentados aos alunos sob diversos formatos de experiências de aprendizagem, tais como estudos de caso, simulações, projetos, jogos e outras. <br><br>
 
 **Metodologia** 
 
@@ -73,18 +74,18 @@ Cada curso da trilha de carreira OpenPBL é composto de duas etapas:
 - Uma etapa individual de preparação, com atividades online; e
 - Uma sessão presencial de conclusão, conduzida por um tutor, com atividades em grupo. 
 
-Ao final de cada curso da trilha, os alunos recebem o resultado comentado do seu desempenho.  
-
-<br><br>
+Ao final de cada curso da trilha, os alunos recebem o resultado comentado do seu desempenho. <br><br>
 
 <a name="projeto"></a>
 
 ## Descrição do projeto de capacitação
 
 **Objetivo e público alvo**
+
 O objetivo do projeto educacional objeto desta proposta é acelerar o desenvolvimento de competências comportamentais profissionais em Consultores de Venda de nível Pleno, utilizando a metodologia da Aprendizagem Baseada em Problemas.
 
 **Trilha de especialização**
+
 O projeto prevê o desenvolvimento prévio de uma trilha de carreira, composta por 4 (quatro) cursos, onde cada um deles é projetado para proporcionar uma experiência de aprendizagem completa baseada na discussão de um problema real e típico da função de Consultor de Vendas B2B. 
 
 Cada curso da trilha é dividido em duas etapas: (1) uma etapa individual de preparação, e (2) uma etapa de discussão em grupo.
@@ -106,12 +107,14 @@ Como feedback da sua atuação em cada curso da trilha de carreira, o aluno rece
 - A avaliação comentada do seu desempenho na solução do problema proposto no curso.
 
 **Formatos das experiências de aprendizagem**  
+
 Os problemas abordados nos cursos da trilha da carreira de Consultor de Vendas B2B serão apresentados aos alunos nos seguintes formatos:
 - Estudos de caso (2); 
 - Game de imersão (1); 
 - Projeto-desafio (1).
 
 **Objetivos de aprendizagem (Learning goals)** 
+
 Cada curso da trilha de carreira se destina a acelerar o desenvolvimento de pelo menos duas competências comportamentais do conjunto elencado a seguir:
 - Estruturação de problemas mal definidos;
 - Tomada de decisão envolvendo incertezas e objetivos conflitantes;
@@ -122,7 +125,7 @@ Cada curso da trilha de carreira se destina a acelerar o desenvolvimento de pelo
 
 As competências a serem desenvolvidas em cada curso da trilha serão escolhidas pela empresa contratante de uma lista sugerida pelo consultor especialista na carreira de Consultor de Vendas B2B que orientou o desenho da trilha.  
 
-Prazo de execução 
+**Prazo de execução**
 Cada
 
 <br><br>
@@ -141,24 +144,32 @@ Cada
 ## Condições Comerciais
 
 **Preço**
+
 O valor do projeto educacional é de de R$ 375,00 por aluno por curso e a contratação é feita por turmas de 10 alunos. A contratação mínima é de uma turma.
 
 **Condições Especiais** 
+
 Volume
+
 O valor total contratado terá uma bonificação por volume de **% para a contratação mínima de 3 turmas, mais uma bonificação adicional de **% para cada nova turma contratada para a mesma trilha de carreira. 
+
 Prazo
+
 O valor total contratado terá um desconto adicional de **% para a contratação até a data de &&/&&/&&&. 
 
 **Forma de pagamento**
+
 O pagamento deverá ser efetuado em três parcelas, conforme o cronograma físico-financeiro a seguir:
 && % no fechamento do contrato;
 && % ao final da execução de cada turma;
 && % ao final do projeto de capacitação;
 
 **Prazo de entrega**
+
 A entrega será… 
 
 **Contrato**
+
 Contrato padrão, pré-aprovado pelo jurídico da Estácio. 
 Para evitar as demoras habituais dos departamentos jurídicos das empresas, a contratação será efetivada com a assinatura do cliente na proposta padrão.
 
