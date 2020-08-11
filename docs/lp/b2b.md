@@ -4,7 +4,9 @@
 
 <h3>A capacitação profissional que utiliza a metodologia da <b>Aprendizagem Baseada em Problemas</b> para acelerar o desenvolvimento de <b>competências comportamentais.</b></h3> 
 
-<p align="center"><h2>Trilhas de especialização profissional por R$ 375,00 por curso</h> </p>
+<p align="center">
+   <h2>Trilhas de especialização profissional por R$ 375,00 por curso</h2> 
+</p>
 
 <br>
 
