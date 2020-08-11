@@ -80,8 +80,7 @@ Ao final de cada curso da trilha, os alunos recebem o resultado comentado do seu
 
 ## Descrição do projeto de capacitação
 
-**Objetivo e público alvo**
-
+**Objetivo e público alvo**<br>
 O objetivo do projeto educacional objeto desta proposta é acelerar o desenvolvimento de competências comportamentais profissionais em Consultores de Venda de nível Pleno, utilizando a metodologia da Aprendizagem Baseada em Problemas.
 
 **Trilha de especialização**
