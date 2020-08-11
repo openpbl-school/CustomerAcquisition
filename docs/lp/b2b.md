@@ -80,8 +80,10 @@ Ao final de cada curso da trilha, os alunos recebem o resultado comentado do seu
 
 ## Descrição do projeto de capacitação
 
+<br>
+
 **Objetivo e público alvo**<br>
-O objetivo do projeto educacional objeto desta proposta é acelerar o desenvolvimento de competências comportamentais profissionais em Consultores de Venda de nível Pleno, utilizando a metodologia da Aprendizagem Baseada em Problemas.
+O objetivo do projeto educacional objeto desta proposta é acelerar o desenvolvimento de competências comportamentais profissionais em Consultores de Venda de nível Pleno, utilizando a metodologia da Aprendizagem Baseada em Problemas.<br><br>
 
 **Trilha de especialização**<br>
 O projeto prevê o desenvolvimento prévio de uma trilha de carreira, composta por 4 (quatro) cursos, onde cada um deles é projetado para proporcionar uma experiência de aprendizagem completa baseada na discussão de um problema real e típico da função de Consultor de Vendas B2B. 
@@ -92,23 +94,23 @@ Na etapa de preparação de cada curso, o aluno:
 - Recebe o conteúdo descritivo do problema abordado no curso, bem como todo o material de apoio para o seu entendimento;
 - É avaliado de forma adaptativa quanto ao seu nível de proficiência nos conhecimentos técnicos necessários para a análise e solução do problema;
 - Recebe recomendações personalizadas de fontes de conteúdo para eliminar possíveis deficiências de conhecimento técnico;
-- Ao final da etapa, propõe a sua solução (ou soluções) para o problema objeto do curso.
+- Ao final da etapa, propõe a sua solução (ou soluções) para o problema objeto do curso.<br><br>
 
 Na etapa de discussão, o aluno:
 - Participa de uma sessão presencial de três horas com dez alunos, para discussões em torno do problema proposto no curso;
 - A sessão é conduzida por um tutor especialista, via webconference.
-- A sessão é realizada fora do ambiente corporativo, em ambiente especialmente projetado para dispor dos recursos educacionais necessários para o desenvolvimento de competências comportamentais.  
+- A sessão é realizada fora do ambiente corporativo, em ambiente especialmente projetado para dispor dos recursos educacionais necessários para o desenvolvimento de competências comportamentais.  <br><br>
 
 Como feedback da sua atuação em cada curso da trilha de carreira, o aluno recebe:
 - Os resultados dos testes de conhecimento técnico que fez ao longo do curso;
 - O registro audiovisual da sua participação na sessão presencial de discussões;
-- A avaliação comentada do seu desempenho na solução do problema proposto no curso.
+- A avaliação comentada do seu desempenho na solução do problema proposto no curso.<br><br>
 
 **Formatos das experiências de aprendizagem**<br>  
 Os problemas abordados nos cursos da trilha da carreira de Consultor de Vendas B2B serão apresentados aos alunos nos seguintes formatos:
 - Estudos de caso (2); 
 - Game de imersão (1); 
-- Projeto-desafio (1).
+- Projeto-desafio (1).<br><br>
 
 **Objetivos de aprendizagem (Learning goals)**<br> 
 Cada curso da trilha de carreira se destina a acelerar o desenvolvimento de pelo menos duas competências comportamentais do conjunto elencado a seguir:
@@ -117,9 +119,9 @@ Cada curso da trilha de carreira se destina a acelerar o desenvolvimento de pelo
 - Tomada de decisão envolvendo restrições orçamentárias de recursos, restrições éticas e sujeitas à regras de compliance;
 - Atuação sob pressão de prazo, desempenho e opiniões diversas;
 - Atuação em equipe sujeita às dinâmicas de cooperação, competição, liderança e negociação;
-- Visão orçamentária ,e atitude empreendedora.
+- Visão orçamentária ,e atitude empreendedora.<br><br>
 
-As competências a serem desenvolvidas em cada curso da trilha serão escolhidas pela empresa contratante de uma lista sugerida pelo consultor especialista na carreira de Consultor de Vendas B2B que orientou o desenho da trilha.  
+As competências a serem desenvolvidas em cada curso da trilha serão escolhidas pela empresa contratante de uma lista sugerida pelo consultor especialista na carreira de Consultor de Vendas B2B que orientou o desenho da trilha.  <br><br>
 
 **Prazo de execução**<br>
 Cada
@@ -139,29 +141,31 @@ Cada
 
 ## Condições Comerciais
 
+<br>
+
 **Preço**<br>
-O valor do projeto educacional é de de R$ 375,00 por aluno por curso e a contratação é feita por turmas de 10 alunos. A contratação mínima é de uma turma.
+O valor do projeto educacional é de de R$ 375,00 por aluno por curso e a contratação é feita por turmas de 10 alunos. A contratação mínima é de uma turma.<br><br>
 
 **Condições Especiais**<br>
 
 Volume<br>
-O valor total contratado terá uma bonificação por volume de **% para a contratação mínima de 3 turmas, mais uma bonificação adicional de **% para cada nova turma contratada para a mesma trilha de carreira. 
+O valor total contratado terá uma bonificação por volume de **% para a contratação mínima de 3 turmas, mais uma bonificação adicional de **% para cada nova turma contratada para a mesma trilha de carreira. <br><br>
 
 Prazo<br>
-O valor total contratado terá um desconto adicional de **% para a contratação até a data de &&/&&/&&&. 
+O valor total contratado terá um desconto adicional de **% para a contratação até a data de &&/&&/&&&. <br><br>
 
 **Forma de pagamento**<br>
 O pagamento deverá ser efetuado em três parcelas, conforme o cronograma físico-financeiro a seguir:
 && % no fechamento do contrato;
 && % ao final da execução de cada turma;
-&& % ao final do projeto de capacitação;
+&& % ao final do projeto de capacitação;<br><br>
 
 **Prazo de entrega**<br>
-A entrega será… 
+A entrega será… <br><br>
 
 **Contrato**<br>
 Contrato padrão, pré-aprovado pelo jurídico da Estácio. 
-Para evitar as demoras habituais dos departamentos jurídicos das empresas, a contratação será efetivada com a assinatura do cliente na proposta padrão.
+Para evitar as demoras habituais dos departamentos jurídicos das empresas, a contratação será efetivada com a assinatura do cliente na proposta padrão.<br><br>
 
 ...
 
