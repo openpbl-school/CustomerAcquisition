@@ -2,7 +2,7 @@
 
 # Capacitação profissional OpenPBL  
 
-<h3>Capacitação profissional que utiliza a metodologia da <b>Aprendizagem Baseada em Problemas</b> para acelerar o desenvolvimento de <b>competências comportamentais</b></h3> 
+<h3>Capacitação profissional que utiliza a metodologia da <b>Aprendizagem Baseada em Problemas</b> para acelerar o desenvolvimento de <b>competências comportamentais.</b></h3> 
 
 <br>
 
@@ -31,13 +31,15 @@
 
 ## Sobre a OpenPBL (opcional white label)
 
-A OpenPBL é… 
+A OpenPBL é… **"Educação Continuada, adaptada ao aluno e baseada em problema tipicos do dia-a-dia profissional".**
 
 <br><br>
 
 <a name="metodologia"></a>
 
 ## Metodologia
+
+<br>
 
 **Profissional do futuro**<br>
 Conhecimentos e habilidades técnicas são importantes para que profissionais alcancem os resultados esperados por suas empresas, mas é o domínio de um conjunto de competências comportamentais que permite que estes profissionais o façam de forma eficiente, ou seja, menos dispendiosa e num prazo mais curto. 
