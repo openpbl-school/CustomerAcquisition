@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="img/banner2.png" width="1170"><br>
-  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso 3</a><br>
+  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso 3</a><br><br>
   <a href="#start">start</a>
      .
      <a href="#metodologia">metodologia</a>
@@ -13,6 +13,8 @@
      .
      <a href="#comercial">comercial</a>
 </p>
+
+<br><br>
 
 Proposta Comercial para Capacitação Funcional
 Sobre a OpenPBL
@@ -30,6 +32,8 @@ Seção: Sobre a OpenPBL (opcional white label)
 
 
 A OpenPBL é… 
+
+<br><br>
 
 <a name="metodologia"></a>
 
@@ -70,6 +74,8 @@ Cada curso da trilha de carreira OpenPBL é composto de duas etapas:
 - Uma sessão presencial de conclusão, conduzida por um tutor, com atividades em grupo. 
 
 Ao final de cada curso da trilha, os alunos recebem o resultado comentado do seu desempenho.  
+
+<br><br>
 
 <a name="projeto"></a>
 
@@ -119,12 +125,16 @@ As competências a serem desenvolvidas em cada curso da trilha serão escolhidas
 Prazo de execução 
 Cada
 
+<br><br>
+
 <a name="casos"></a>
 
 ## Casos de sucesso
 
 
 <nope> 
+  
+  <br><br>
 
 <a name="comercial"></a>
 
@@ -152,6 +162,6 @@ A entrega será…
 Contrato padrão, pré-aprovado pelo jurídico da Estácio. 
 Para evitar as demoras habituais dos departamentos jurídicos das empresas, a contratação será efetivada com a assinatura do cliente na proposta padrão.
 
-
+...
 
 
