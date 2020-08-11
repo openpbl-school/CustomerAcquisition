@@ -2,7 +2,7 @@
 
 # Capacitação profissional OpenPBL  
 
-<h1>Capacitação profissional que utiliza a metodologia da <b>Aprendizagem Baseada em Problemas</b> com objetivo de acelerar o desenvolvimento de <b>competências comportamentais</b></h1> 
+<h3>Capacitação profissional que utiliza a metodologia da <b>Aprendizagem Baseada em Problemas</b> com objetivo de acelerar o desenvolvimento de <b>competências comportamentais</b></h3> 
 
 <br>
 
