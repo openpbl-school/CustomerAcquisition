@@ -1,10 +1,12 @@
 <a name="start"></a> 
 
+# Capacitação profissional OpenPBL  
+
+Capacitação profissional que utiliza a metodologia da **Aprendizagem Baseada em Problemas** com objetivo de acelerar o desenvolvimento de **competências comportamentais.** 
+
+<br>
+
 <p align="center">
-  <img src="img/banner2.png" width="1170"><br>
-  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso 3</a><br><br>
-  <a href="#start">start</a>
-     .
      <a href="#metodologia">metodologia</a>
      .
      <a href="#projeto">projeto</a>
@@ -14,22 +16,14 @@
      <a href="#comercial">comercial</a>
 </p>
 
+<p align="center">
+  <img src="img/banner2.png" width="1170"><br>
+  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso 3</a><br><br>
+</p>
+
 <br><br>
 
-Proposta Comercial para Capacitação Funcional
-Sobre a OpenPBL
-Metodologia
-Descrição do projeto de capacitação
-Casos de sucesso
-Condições comerciais 
-
-Resumo
-Proposta comercial para capacitação profissional de Consultores de Venda B2B, utilizando a metodologia da Aprendizagem Baseada em Problemas com objetivo de acelerar o desenvolvimento de competências comportamentais. 
-O projeto educacional é composto de uma trilha de carreira com 4 cursos no valor de R$ 375,00 por funcionário por curso.
-
-...
-Seção: Sobre a OpenPBL (opcional white label)
-
+## Sobre a OpenPBL (opcional white label)
 
 A OpenPBL é… 
 
