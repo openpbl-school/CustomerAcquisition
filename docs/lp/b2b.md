@@ -1,5 +1,18 @@
 <a name="start"></a> 
 
+<p align="center">
+  <img src="img/banner2.png" width="1170"><br>
+  <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">Saiba mais sobre esse caso 3</a><br>
+  <a href="#start">start</a>
+     .
+     <a href="#metodologia">metodologia</a>
+     .
+     <a href="#projeto">projeto</a>
+     .
+     <a href="#casos">casos</a>     
+     .
+     <a href="#comercial">comercial</a>
+</p>
 
 Proposta Comercial para Capacitação Funcional
 Sobre a OpenPBL
