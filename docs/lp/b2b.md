@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-     <a href="https://bit.ly/OpenPBL-B2B" target="_blank">Sobre a OpenPBL</a>
+     <a href="https://bit.ly/OpenPBL_Sobre" target="_blank">Sobre a OpenPBL</a>
      .
      <a href="#metodologia">Metodologia</a>
      .
